@@ -1,0 +1,226 @@
+/* ================================================================ */
+/* TTKillerPlus — Localizable.strings                               */
+/* created on 05/04/2026                                            */
+/* by iKarwan                                                       */
+/* ================================================================ */
+
+/* NOTE !!! After translation add your country code: en - ar - zh etc. */
+
+/* ── General ──────────────────────────────────────────────────── */
+"GLOB_ENABLED"                    = "Global Enabled";
+"GLOBAL_ENABLED_SWITCH"           = "Tap the top-right button to apply changes.";
+"ACTIVE_VERIFIED"                 = "Active (Verified)";
+"INACTIVE_VERIFY"                 = "Inactive (Verify License)";
+
+/* ── Tab Bar section ──────────────────────────────────────────── */
+"SECTION_TAB_BAR"                 = "TAB BAR";
+"HIDE_FRIENDS_TAB"                = "Hide Friends Tab";
+"HIDE_FRIENDS_TAB_SUB"            = "Remove the Friends tab from the bottom bar";
+"HIDE_CREATE_TAB"                 = "Hide Create Tab";
+"HIDE_CREATE_TAB_SUB"             = "Remove the + Create button from the bottom bar";
+"HIDE_INBOX_TAB"                  = "Hide Inbox Tab";
+"HIDE_INBOX_TAB_SUB"              = "Remove the Inbox / notifications tab from the bottom bar";
+
+/* ── Profile section ──────────────────────────────────────────── */
+"SECTION_PROFILE"                 = "PROFILE";
+"FOLLOW_STATUS_BADGE"             = "Follow Status Badge";
+"FOLLOW_STATUS_BADGE_SUB"         = "Show 🤝👁👻 badge next to username on profiles";
+"VIDEO_COUNT_LABEL"               = "Video Count Label";
+"VIDEO_COUNT_LABEL_SUB"           = "Show post count next to the sort button on profiles";
+"AVATAR_LONGPRESS"                = "Avatar Long-Press Fullscreen";
+"AVATAR_LONGPRESS_SUB"            = "Long-press a profile picture to view it full size & save";
+
+/* ── Feed section ─────────────────────────────────────────────── */
+"SECTION_FEED"                    = "FEED";
+"AD_BLOCKER"                      = "Ad Blocker";
+"AD_BLOCKER_SUB"                  = "Remove sponsored & ad videos from your feed";
+"COUNTRY_FLAG_PILL"               = "Country Flag Pill";
+"COUNTRY_FLAG_PILL_SUB"           = "Show author country flag + post age while watching";
+"GRID_POST_DATES"                 = "Grid Post Dates";
+"GRID_POST_DATES_SUB"             = "Show relative date on profile grid thumbnails";
+"CLEAR_DISPLAY"                   = "Clear Display";
+"CLEAR_DISPLAY_SUB"               = "Hide all UI overlays while watching a video";
+
+/* ── Download section ─────────────────────────────────────────── */
+"SECTION_DOWNLOAD"                = "DOWNLOAD";
+"DOWNLOAD_BUTTON"                 = "Download Button";
+"DOWNLOAD_BUTTON_SUB"             = "Show a Save button on the side of feed videos";
+
+/* ── Live section ─────────────────────────────────────────────── */
+"SECTION_LIVE"                    = "LIVE";
+"LIVE_AUTO_CLICK"                 = "Live Auto-Click";
+"LIVE_AUTO_CLICK_SUB"             = "Automatically tap the screen during live streams";
+
+/* ── Messages & Stories section ───────────────────────────────── */
+"SECTION_MSG_STORIES"             = "MESSAGES & STORIES";
+"STORY_EYE_BUTTON"                = "Story Eye Button";
+"STORY_EYE_BUTTON_SUB"            = "Mark a story as seen while viewing it";
+"MSG_EYE_BUTTON"                  = "Message Eye Button";
+"MSG_EYE_BUTTON_SUB"              = "Mark a conversation as read from inside the chat";
+
+/* ── Region (RootOptionsController row) ───────────────────────── */
+"REGION"                          = "Region";
+"REGION_NOT_SET"                  = "Not Set";
+
+/* ── CountryTable ─────────────────────────────────────────────── */
+"REGION_TITLE"                    = "Regions";
+"REGION_SELECT_HEADER"            = "Select a Region";
+"REGION_FOOTER_ACTIVE"            = "Active: %@  •  Code: %@  •  MCC: %@  •  MNC: %@";
+"REGION_FOOTER_NONE"              = "No region selected. Tap a country to activate spoofing.";
+
+/* CountryTable status alert */
+"REGION_STATUS_NO_TITLE"          = "No Region Set";
+"REGION_STATUS_NO_MSG"            = "No region selected yet.\n\n── Live CTCarrier ──\nCarrier:  %@\nISO Code: %@\nMCC:      %@\nMNC:      %@";
+"REGION_STATUS_ACTIVE_TITLE"      = "✅ Spoofing Active!";
+"REGION_STATUS_INACTIVE_TITLE"    = "⚠️ Not Yet Active";
+"REGION_STATUS_MSG"               = "Selected: %@\n\n── Saved Values ──\nISO Code: %@\nMCC:      %@\nMNC:      %@\n\n── Live CTCarrier ──\nCarrier:  %@\nISO Code: %@ %@\nMCC:      %@ %@\nMNC:      %@ %@\n\n%@";
+"REGION_HOOK_OK"                  = "Hook is working correctly.";
+"REGION_HOOK_NOT_ACTIVE"          = "Hook not active yet.\nMake sure to apply after changing country.";
+"REGION_BTN_OK"                   = "OK";
+"REGION_BTN_CLEAR"                = "Clear Region";
+
+/* ── Other Projects / Developer ───────────────────────────────── */
+"OTHER_TWEAKS"                    = "Other Projects";
+"IKG_WORKSPACE"                   = "iKG's Workspace";
+"SECTION_DEVELOPER"               = "DEVELOPER";
+
+/* ── Download action sheet ────────────────────────────────────── */
+"DL_SHEET_TITLE"                  = "TTKPlus";
+"DL_SAVE_VIDEO"                   = "Save video";
+"DL_DOWNLOAD_SHARE"               = "Download & share";
+"DL_DOWNLOAD_VIDEO_SHARE"         = "Download video & share";
+"DL_SAVE_AUDIO"                   = "Save audio";
+"DL_COPY_INFO"                    = "Copy video information";
+"DL_CLEAR_DISPLAY"                = "Clear display";
+"DL_RESTORE_DISPLAY"              = "Restore display";
+"DL_CANCEL"                       = "Cancel";
+
+/* ── Album picker UI ──────────────────────────────────────────── */
+"DL_PHOTO_PICKER_TITLE"           = "Select photos to download";
+"DL_MERGE_MUSIC_LABEL"            = "🎵  Merge photos with music";
+"DL_BTN_SELECT_ALL"               = "  Select all";
+"DL_BTN_DOWNLOAD_COUNT"           = "Download (%lu)";
+"DL_BTN_SAVE_PHOTOS"              = "  Save to Photos";
+
+/* ── Auto-click picker ────────────────────────────────────────── */
+"AUTOCLICK_PICKER_TITLE"          = "❤️ Auto-Click Count";
+"AUTOCLICK_PICKER_MSG"            = "Long press to change";
+"AUTOCLICK_UNLIMITED"             = "Unlimited ∞";
+
+/* ── Toast messages ───────────────────────────────────────────── */
+"TOAST_STOPPED"                   = "⏹ Stopped";
+"TOAST_CANCELLED"                 = "❌ Cancelled";
+"TOAST_START_HINT"                = "👆 Double tap anywhere on the live screen to start auto-likes!";
+"TOAST_SET_UNLIMITED"             = "✅ Set: Unlimited ∞";
+"TOAST_SET_LIKES"                 = "✅ Set: %ld likes";
+"TOAST_SENDING_LIKES"             = "▶️ Sending %@ likes…";
+"TOAST_NO_TOUCH"                  = "❌ No touch captured";
+"TOAST_DOWNLOADING"               = "⬇️ Downloading…";
+"TOAST_DOWNLOADING_MUSIC"         = "⬇️ Downloading music…";
+"TOAST_SAVED_PHOTOS"              = "✅ Saved to Photos";
+"TOAST_SAVE_FAILED"               = "❌ Save failed";
+"TOAST_NOT_FOUND"                 = "❌ Not found";
+"TOAST_VIDEO_URL_NOT_FOUND"       = "❌ Video URL not found";
+"TOAST_AUDIO_URL_NOT_FOUND"       = "❌ Audio URL not found";
+"TOAST_ERROR_VIDEO_URL"           = "❌ Error getting video URL";
+"TOAST_ERROR_AUDIO_URL"           = "❌ Error getting audio URL";
+"TOAST_MUSIC_DL_FAILED"           = "❌ Music download failed";
+"TOAST_DL_FAILED"                 = "❌ Download failed";
+"TOAST_COPIED"                    = "✅ Copied";
+"TOAST_DISPLAY_CLEARED"           = "🫥 Display cleared";
+"TOAST_DISPLAY_RESTORED"          = "👁 Display restored";
+"TOAST_NO_MODEL"                  = "⚠️ Could not find video model";
+"TOAST_NO_VC"                     = "⚠️ Could not find view controller";
+"TOAST_BUILDING_SLIDESHOW"        = "Building slideshow (%lu photos + music)…";
+"TOAST_SAVED_COUNT"               = "✅ Saved %ld/%ld to Photos";
+"TOAST_SAVING_ITEMS"              = "Saving %lu item(s)…";
+"TOAST_SLIDESHOW_SAVED"           = "✅ Slideshow (%lu photos) saved";
+"TOAST_SLIDESHOW_SAVE_FAILED"     = "❌ Save to Photos failed";
+"TOAST_AUDIO_MERGE_FAILED"        = "❌ Audio merge failed";
+"TOAST_SLIDESHOW_WRITE_FAILED"    = "❌ Slideshow write failed";
+"TOAST_WRITER_INIT_FAILED"        = "❌ Writer init failed";
+"TOAST_INVALID_IMAGE_SIZE"        = "❌ Invalid image size";
+"TOAST_NO_PHOTOS_DL"              = "❌ No photos downloaded";
+"TOAST_WLCOM"                     = "👆 long press on profile to enter TTKPlus ⚙️ setting.";
+"TTKPLUS_SETTING"                 = "⚙️ TTKPlus Settings";
+"TTKPLUS_CLEAR"                   = "🧹 TTKPlus clean";
+
+/* ── Compatibility footer ─────────────────────────────────────── */
+"compatible_ver"                  = "Compatible";
+"not_compatible_ver"              = "Not Compatible";
+"compatible_legacy_ver"           = "Compatible (Legacy)";
+"unknown_ver"                     = "Unknown";
+
+/* ── Language picker ──────────────────────────────────────────── */
+"SELECT_LANGUAGE"                 = "Select Language";
+"AUTO_LANGUAGE"                   = "Auto (System)";
+"CANCEL"                          = "Cancel";
+
+
+/* clearCaches */
+"clearonstartup" = "Clear on Startup";
+"clearcache" = "Clear Cache";
+"On" = "On";
+"Off" = "Off";
+"calculating" = "Calculating…";
+
+/* Unlink Email from License */
+"unlink_email" = "Unlink Email";
+"unlink_confirmation" = "Confirm Unlink";
+"unlink_email_explanation" = "Are you sure you want to unlink this email from your license?";
+"unlink" = "Unlink";
+"error_unlink" = "Error";
+"error_unlink_desc" = "Failed to unlink email.";
+"success_unlink" = "Success";
+"success_unlink_desc" = "Email unlinked successfully.";
+
+/* promptForActivation */
+"license_option" = "License Options";
+"license_option_disc" = "Select an option:";
+"activate_new_license" = "Activate New License";
+"restore_license" = "Restore License";
+"renew_license" = "Renew License";
+"buy_license" = "Buy License";
+"activate_new_license_disc" = "Enter your email and license key below.";
+"email" = "Email";
+"license_key" = "License Key";
+"activate" = "Activate";
+"invalid_email" = "Invalid Email";
+"invalid_email_disc" = "Enter a valid email address.";
+"invalid_license" = "Invalid License";
+"license_key_empty" = "License key cannot be empty.";
+"license_key_length_wrong" = "Invalid license key length.\nPlease enter a valid key.";
+
+/* promptForRestore */
+"restore_notice" = "Restore Process Updated";
+"restore_notice_desc" = "The restore process has changed. After restoring your license, you must copy your key and return to the activation screen to activate using your email and key again.";
+"restore_license_disc" = "Enter the email linked to your license.";
+"restore" = "Restore";
+"copy_license_key" = "Copy License Key";
+"license_key_copied_to_clipboard" = "License key copied to clipboard.";
+"license_details" = "License Details";
+"license_details_disc" = "License Key: %@\n\nExpiration: %@\n\n%@";
+"license_restored_successfully" = "License is active.";
+"license_restored" = "License Restored";
+"restore_failed" = "Restore Failed";
+"copied_key" = "Copied to clipboard";
+
+/* enter license prompt */
+"enter_license_key" = "Enter License Key";
+"enter_license_key_disc" = "Enter your license key to authenticate.";
+"license_key_authenticated" = "License authenticated. Expires on: %@";
+"authentication_successful" = "Authentication Successful";
+"key_used_on_another_device" = "License already activated on another device.";
+"key_is_in_use_on_another_device" = "This license is in use on another device. Use a different key.";
+"email_associated_with_another_key" = "Email already linked to another license.";
+"authentication_failed" = "Authentication Failed";
+"email_associated_with_defferent_key" = "This email is linked to a different key. Use another email or key.";
+"key_expired" = "Key Expired";
+"license_expired" = "License Expired";
+"license_expired_disc" = "Your license has expired. Please renew.";
+"license_verification_failed" = "License Verification Failed";
+"no_internet" = "No Internet";
+"no_internet_disc" = "Internet connection required for authentication.";
+"license_disc" = "The entered license key is invalid.";
+
+/* other stuff */

@@ -1,0 +1,226 @@
+/* ================================================================ /
+/ TTKillerPlus — Localizable.strings                               /
+/ 创建于 2026年4月5日                                             /
+/ 由 iKarwan 提供                                                  /
+/ ================================================================ */
+
+/* 注意!!! 翻译完成后，请添加您的国家代码：en - zh - fr 等。 */
+
+/* —— 通用 —————————————————————————————————————————————— */
+"GLOB_ENABLED"                    = "全局启用";
+"GLOBAL_ENABLED_SWITCH"           = "点击右上角按钮以应用更改。";
+"ACTIVE_VERIFIED"                 = "已激活（已验证）";
+"INACTIVE_VERIFY"                 = "未激活（验证许可证）";
+
+/* —— 标签栏 —————————————————————————————————————————————— */
+"SECTION_TAB_BAR"                 = "标签栏";
+"HIDE_FRIENDS_TAB"                = "隐藏好友标签";
+"HIDE_FRIENDS_TAB_SUB"            = "从底部栏中移除好友标签";
+"HIDE_CREATE_TAB"                 = "隐藏创建标签";
+"HIDE_CREATE_TAB_SUB"             = "从底部栏中移除 + 创建按钮";
+"HIDE_INBOX_TAB"                  = "隐藏收件箱标签";
+"HIDE_INBOX_TAB_SUB"              = "从底部栏中移除收件箱/通知标签";
+
+/* —— 个人资料 —————————————————————————————————————————————— */
+"SECTION_PROFILE"                 = "个人资料";
+"FOLLOW_STATUS_BADGE"             = "关注状态徽章";
+"FOLLOW_STATUS_BADGE_SUB"         = "在个人资料中显示 🤝👁👻 徽章在用户名旁边";
+"VIDEO_COUNT_LABEL"               = "视频数量标签";
+"VIDEO_COUNT_LABEL_SUB"           = "在个人资料中显示帖子数量在排序按钮旁边";
+"AVATAR_LONGPRESS"                = "长按头像全屏";
+"AVATAR_LONGPRESS_SUB"            = "长按个人资料照片以全屏查看并保存";
+
+/* —— 动态 ———————————————————————————————————————————————— */
+"SECTION_FEED"                    = "动态";
+"AD_BLOCKER"                      = "广告拦截器";
+"AD_BLOCKER_SUB"                  = "从您的动态中移除赞助和广告视频";
+"COUNTRY_FLAG_PILL"               = "国家旗帜标记";
+"COUNTRY_FLAG_PILL_SUB"           = "观看时显示作者国家旗帜 + 帖子年龄";
+"GRID_POST_DATES"                 = "网格帖子日期";
+"GRID_POST_DATES_SUB"             = "在个人资料网格缩略图上显示相对日期";
+"CLEAR_DISPLAY"                   = "清晰显示";
+"CLEAR_DISPLAY_SUB"               = "观看视频时隐藏所有 UI 覆盖层";
+
+/* —— 下载 ———————————————————————————————————————————————— */
+"SECTION_DOWNLOAD"                = "下载";
+"DOWNLOAD_BUTTON"                 = "下载按钮";
+"DOWNLOAD_BUTTON_SUB"             = "在动态视频旁边显示保存按钮";
+
+/* —— 直播 ———————————————————————————————————————————————— */
+"SECTION_LIVE"                    = "直播";
+"LIVE_AUTO_CLICK"                 = "直播自动点击";
+"LIVE_AUTO_CLICK_SUB"             = "直播期间自动点击屏幕";
+
+/* —— 消息和故事 —————————————————————————————————————————— */
+"SECTION_MSG_STORIES"             = "消息和故事";
+"STORY_EYE_BUTTON"                = "故事查看按钮";
+"STORY_EYE_BUTTON_SUB"            = "查看故事时将其标记为已查看";
+"MSG_EYE_BUTTON"                  = "消息查看按钮";
+"MSG_EYE_BUTTON_SUB"              = "在聊天内将对话标记为已读";
+
+/* —— 区域（RootOptionsController 行）———————————————————————— */
+"REGION"                          = "区域";
+"REGION_NOT_SET"                  = "未设置";
+
+/* —— 国家表 —————————————————————————————————————————————— */
+"REGION_TITLE"                    = "区域";
+"REGION_SELECT_HEADER"            = "选择一个区域";
+"REGION_FOOTER_ACTIVE"            = "已激活：%@  •  代码：%@  •  MCC：%@  •  MNC：%@";
+"REGION_FOOTER_NONE"              = "未选择区域。点击国家以激活欺骗。";
+
+/* 国家表状态警报 */
+"REGION_STATUS_NO_TITLE"          = "未设置区域";
+"REGION_STATUS_NO_MSG"            = "尚未选择区域。\n\n—— 实时 CTCarrier ——\n运营商：  %@\nISO 代码： %@\nMCC：      %@\nMNC：      %@";
+"REGION_STATUS_ACTIVE_TITLE"      = "✅ 欺骗已激活！";
+"REGION_STATUS_INACTIVE_TITLE"    = "⚠️ 尚未激活";
+"REGION_STATUS_MSG"               = "已选择：%@\n\n—— 已保存的值 ——\nISO 代码： %@\nMCC：      %@\nMNC：      %@\n\n—— 实时 CTCarrier ——\n运营商：  %@\nISO 代码： %@ %@\nMCC：      %@ %@\nMNC：      %@ %@\n\n%@";
+"REGION_HOOK_OK"                  = "钩子正常工作。";
+"REGION_HOOK_NOT_ACTIVE"          = "钩子尚未激活。\n请在更改国家后应用。";
+"REGION_BTN_OK"                   = "确定";
+"REGION_BTN_CLEAR"                = "清除区域";
+
+/* —— 其他项目/开发者 —————————————————————————————————————— */
+"OTHER_TWEAKS"                    = "其他项目";
+"IKG_WORKSPACE"                   = "iKG 的工作区";
+"SECTION_DEVELOPER"               = "开发者";
+
+/* —— 下载操作表 ———————————————————————————————————————— */
+"DL_SHEET_TITLE"                  = "TTKPlus";
+"DL_SAVE_VIDEO"                   = "保存视频";
+"DL_DOWNLOAD_SHARE"               = "下载并分享";
+"DL_DOWNLOAD_VIDEO_SHARE"         = "下载视频并分享";
+"DL_SAVE_AUDIO"                   = "保存音频";
+"DL_COPY_INFO"                    = "复制视频信息";
+"DL_CLEAR_DISPLAY"                = "清除显示";
+"DL_RESTORE_DISPLAY"              = "恢复显示";
+"DL_CANCEL"                       = "取消";
+
+/* —— 相册选择器 UI —————————————————————————————————————— */
+"DL_PHOTO_PICKER_TITLE"           = "选择要下载的照片";
+"DL_MERGE_MUSIC_LABEL"            = "🎵 将照片与音乐合并";
+"DL_BTN_SELECT_ALL"               = "  全选";
+"DL_BTN_DOWNLOAD_COUNT"           = "下载 (%lu)";
+"DL_BTN_SAVE_PHOTOS"              = "  保存到照片";
+
+/* —— 自动点击选择器 ———————————————————————————————————————— */
+"AUTOCLICK_PICKER_TITLE"          = "❤️ 自动点击次数";
+"AUTOCLICK_PICKER_MSG"            = "长按以更改";
+"AUTOCLICK_UNLIMITED"             = "无限制 ∞";
+
+/* —— 吐司消息 —————————————————————————————————————————————— */
+"TOAST_STOPPED"                   = "⏹ 已停止";
+"TOAST_CANCELLED"                 = "❌ 已取消";
+"TOAST_START_HINT"                = "👆 在直播屏幕上任意位置双击以启动自动点赞！";
+"TOAST_SET_UNLIMITED"             = "✅ 已设置：无限制 ∞";
+"TOAST_SET_LIKES"                 = "✅ 已设置：%ld 个赞";
+"TOAST_SENDING_LIKES"             = "▶️ 正在发送 %@ 个赞...";
+"TOAST_NO_TOUCH"                  = "❌ 未检测到触摸";
+"TOAST_DOWNLOADING"               = "⬇️ 正在下载...";
+"TOAST_DOWNLOADING_MUSIC"         = "⬇️ 正在下载音乐...";
+"TOAST_SAVED_PHOTOS"              = "✅ 已保存到照片";
+"TOAST_SAVE_FAILED"               = "❌ 保存失败";
+"TOAST_NOT_FOUND"                 = "❌ 未找到";
+"TOAST_VIDEO_URL_NOT_FOUND"       = "❌ 未找到视频 URL";
+"TOAST_AUDIO_URL_NOT_FOUND"       = "❌ 未找到音频 URL";
+"TOAST_ERROR_VIDEO_URL"           = "❌ 获取视频 URL 时出错";
+"TOAST_ERROR_AUDIO_URL"           = "❌ 获取音频 URL 时出错";
+"TOAST_MUSIC_DL_FAILED"           = "❌ 音乐下载失败";
+"TOAST_DL_FAILED"                 = "❌ 下载失败";
+"TOAST_COPIED"                    = "✅ 已复制";
+"TOAST_DISPLAY_CLEARED"           = "🫥 显示已清除";
+"TOAST_DISPLAY_RESTORED"          = "👁 显示已恢复";
+"TOAST_NO_MODEL"                  = "⚠️ 未找到视频模型";
+"TOAST_NO_VC"                     = "⚠️ 未找到视图控制器";
+"TOAST_BUILDING_SLIDESHOW"        = "正在构建幻灯片 (%lu 张照片 + 音乐)...";
+"TOAST_SAVED_COUNT"               = "✅ 已保存 %ld/%ld 张照片";
+"TOAST_SAVING_ITEMS"              = "正在保存 %lu 个项目...";
+"TOAST_SLIDESHOW_SAVED"           = "✅ 幻灯片 (%lu 张照片) 已保存";
+"TOAST_SLIDESHOW_SAVE_FAILED"     = "❌ 保存幻灯片失败";
+"TOAST_AUDIO_MERGE_FAILED"        = "❌ 音频合并失败";
+"TOAST_SLIDESHOW_WRITE_FAILED"    = "❌ 幻灯片写入失败";
+"TOAST_WRITER_INIT_FAILED"        = "❌ 写入器初始化失败";
+"TOAST_INVALID_IMAGE_SIZE"        = "❌ 图片尺寸无效";
+"TOAST_NO_PHOTOS_DL"              = "❌ 未下载任何照片";
+"TOAST_WLCOM"                     = "👆 长按个人资料以进入 TTKPlus 设置。";
+"TTKPLUS_SETTING"                 = "⚙️ TTKPlus 设置";
+"TTKPLUS_CLEAR"                   = "🧹 TTKPlus 清理";
+
+/* —— 兼容性页脚 —————————————————————————————————————————— */
+"compatible_ver"                  = "兼容";
+"not_compatible_ver"              = "不兼容";
+"compatible_legacy_ver"           = "兼容（旧版）";
+"unknown_ver"                     = "未知";
+
+/* —— 语言选择器 —————————————————————————————————————————————— */
+"SELECT_LANGUAGE"                 = "选择语言";
+"AUTO_LANGUAGE"                   = "自动（系统）";
+"CANCEL"                          = "取消";
+
+
+/* clearCaches */
+"clearonstartup" = "启动时清理";
+"clearcache" = "清理缓存";
+"On" = "开";
+"Off" = "关";
+"calculating" = "计算中…";
+
+/* Unlink Email from License */
+"unlink_email" = "解除邮箱绑定";
+"unlink_confirmation" = "确认解除";
+"unlink_email_explanation" = "确定要将此邮箱从许可证中解除绑定吗？";
+"unlink" = "解除绑定";
+"error_unlink" = "错误";
+"error_unlink_desc" = "解除邮箱绑定失败。";
+"success_unlink" = "成功";
+"success_unlink_desc" = "邮箱已成功解除绑定。";
+
+/* promptForActivation */
+"license_option" = "许可证选项";
+"license_option_disc" = "请选择：";
+"activate_new_license" = "激活新许可证";
+"restore_license" = "恢复许可证";
+"renew_license" = "续订许可证";
+"buy_license" = "购买许可证";
+"activate_new_license_disc" = "请输入邮箱和许可证密钥。";
+"email" = "邮箱";
+"license_key" = "许可证密钥";
+"activate" = "激活";
+"invalid_email" = "邮箱无效";
+"invalid_email_disc" = "请输入有效的邮箱地址。";
+"invalid_license" = "许可证无效";
+"license_key_empty" = "许可证密钥不能为空。";
+"license_key_length_wrong" = "密钥长度错误。\n请输入有效的许可证密钥。";
+
+/* promptForRestore */
+"restore_notice" = "恢复流程已更新";
+"restore_notice_desc" = "恢复流程已更改。恢复许可证后，你必须复制密钥并返回激活界面，使用邮箱和密钥重新激活。";
+"restore_license_disc" = "请输入与许可证关联的邮箱。";
+"restore" = "恢复";
+"copy_license_key" = "复制许可证密钥";
+"license_key_copied_to_clipboard" = "许可证密钥已复制。";
+"license_details" = "许可证详情";
+"license_details_disc" = "许可证密钥：%@\n\n到期时间：%@\n\n%@";
+"license_restored_successfully" = "许可证已激活。";
+"license_restored" = "已恢复";
+"restore_failed" = "恢复失败";
+"copied_key" = "已复制";
+
+/* enter license prompt */
+"enter_license_key" = "输入许可证密钥";
+"enter_license_key_disc" = "请输入许可证密钥进行验证。";
+"license_key_authenticated" = "许可证验证成功。到期时间：%@";
+"authentication_successful" = "验证成功";
+"key_used_on_another_device" = "许可证已在其他设备激活。";
+"key_is_in_use_on_another_device" = "此许可证已在其他设备使用，请更换密钥。";
+"email_associated_with_another_key" = "邮箱已绑定其他许可证。";
+"authentication_failed" = "验证失败";
+"email_associated_with_defferent_key" = "邮箱绑定了不同的密钥，请更换邮箱或密钥。";
+"key_expired" = "密钥已过期";
+"license_expired" = "许可证已过期";
+"license_expired_disc" = "您的许可证已过期，请续订。";
+"license_verification_failed" = "许可证验证失败";
+"no_internet" = "无网络连接";
+"no_internet_disc" = "需要网络连接以进行验证。";
+"license_disc" = "输入的许可证密钥无效。";
+
+/* other stuff */

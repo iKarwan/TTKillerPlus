@@ -1,0 +1,226 @@
+/* ================================================================ /
+/ TTKillerPlus — Localizable.strings                               /
+/ Créé le 05/04/2026                                              /
+/ Par iKarwan                                                      /
+/ ================================================================ */
+
+/* REMARQUE !!! Après la traduction, ajoutez le code de votre pays : en - fr - es etc. */
+
+/* —— Général ————————————————————————————————————————— */
+"GLOB_ENABLED"                    = "Activé globalement";
+"GLOBAL_ENABLED_SWITCH"           = "Appuyez sur le bouton en haut à droite pour appliquer les modifications.";
+"ACTIVE_VERIFIED"                 = "Actif (Vérifié)";
+"INACTIVE_VERIFY"                 = "Inactif (Vérifier la licence)";
+
+/* —— Section Barre d'onglets ——————————————————————————————— */
+"SECTION_TAB_BAR"                 = "BARRE D'ONGLETS";
+"HIDE_FRIENDS_TAB"                = "Masquer l'onglet Amis";
+"HIDE_FRIENDS_TAB_SUB"            = "Retire l'onglet Amis de la barre inférieure";
+"HIDE_CREATE_TAB"                 = "Masquer l'onglet Créer";
+"HIDE_CREATE_TAB_SUB"             = "Retire le bouton + Créer de la barre inférieure";
+"HIDE_INBOX_TAB"                  = "Masquer l'onglet Boîte de réception";
+"HIDE_INBOX_TAB_SUB"              = "Retire l'onglet Boîte de réception/notifications de la barre inférieure";
+
+/* —— Section Profil ——————————————————————————————————————— */
+"SECTION_PROFILE"                 = "PROFIL";
+"FOLLOW_STATUS_BADGE"             = "Badges de statut de suivi";
+"FOLLOW_STATUS_BADGE_SUB"         = "Affiche le badge 🤝👁👻 à côté du nom d'utilisateur sur les profils";
+"VIDEO_COUNT_LABEL"               = "Étiquette de comptage de vidéos";
+"VIDEO_COUNT_LABEL_SUB"           = "Affiche le nombre de publications à côté du bouton de tri sur les profils";
+"AVATAR_LONGPRESS"                = "Avatar en plein écran par appui long";
+"AVATAR_LONGPRESS_SUB"            = "Appui long sur une photo de profil pour l'afficher en pleine taille et l'enregistrer";
+
+/* —— Section Fil d'actualité ————————————————————————————————— */
+"SECTION_FEED"                    = "FIL D'ACTUALITÉ";
+"AD_BLOCKER"                      = "Bloqueur de publicités";
+"AD_BLOCKER_SUB"                  = "Retire les vidéos sponsorisées et publicitaires de votre fil d'actualité";
+"COUNTRY_FLAG_PILL"               = "Drapeau du pays";
+"COUNTRY_FLAG_PILL_SUB"           = "Affiche le drapeau du pays de l'auteur + l'âge de la publication pendant la lecture";
+"GRID_POST_DATES"                 = "Dates des publications en grille";
+"GRID_POST_DATES_SUB"             = "Affiche la date relative sur les miniatures de la grille de profil";
+"CLEAR_DISPLAY"                   = "Affichage clair";
+"CLEAR_DISPLAY_SUB"               = "Masque toutes les superpositions de l'interface utilisateur pendant la lecture d'une vidéo";
+
+/* —— Section Téléchargement ————————————————————————————————— */
+"SECTION_DOWNLOAD"                = "TÉLÉCHARGEMENT";
+"DOWNLOAD_BUTTON"                 = "Bouton de téléchargement";
+"DOWNLOAD_BUTTON_SUB"             = "Affiche un bouton Enregistrer à côté des vidéos du fil d'actualité";
+
+/* —— Section En direct —————————————————————————————————————— */
+"SECTION_LIVE"                    = "EN DIRECT";
+"LIVE_AUTO_CLICK"                 = "Clic automatique en direct";
+"LIVE_AUTO_CLICK_SUB"             = "Appuie automatiquement sur l'écran pendant les diffusions en direct";
+
+/* —— Section Messages et Histoires ————————————————————————————— */
+"SECTION_MSG_STORIES"             = "MESSAGES ET HISTOIRES";
+"STORY_EYE_BUTTON"                = "Bouton œil de l'histoire";
+"STORY_EYE_BUTTON_SUB"            = "Marque une histoire comme vue pendant la visualisation";
+"MSG_EYE_BUTTON"                  = "Bouton œil du message";
+"MSG_EYE_BUTTON_SUB"              = "Marque une conversation comme lue depuis l'intérieur du chat";
+
+/* —— Région (ligne RootOptionsController) ———————————————————————— */
+"REGION"                          = "Région";
+"REGION_NOT_SET"                  = "Non défini";
+
+/* —— Tableau des pays —————————————————————————————————————— */
+"REGION_TITLE"                    = "Régions";
+"REGION_SELECT_HEADER"            = "Sélectionnez une région";
+"REGION_FOOTER_ACTIVE"            = "Actif : %@  •  Code : %@  •  MCC : %@  •  MNC : %@";
+"REGION_FOOTER_NONE"              = "Aucune région sélectionnée. Appuyez sur un pays pour activer le spoofing.";
+
+/* Alerte d'état du tableau des pays */
+"REGION_STATUS_NO_TITLE"          = "Aucune région définie";
+"REGION_STATUS_NO_MSG"            = "Aucune région sélectionnée.\n\n—— CTCarrier en direct ——\nOpérateur :  %@\nCode ISO : %@\nMCC :      %@\nMNC :      %@";
+"REGION_STATUS_ACTIVE_TITLE"      = "✅ Spoofing actif !";
+"REGION_STATUS_INACTIVE_TITLE"    = "⚠️ Pas encore actif";
+"REGION_STATUS_MSG"               = "Sélectionné : %@\n\n—— Valeurs enregistrées ——\nCode ISO : %@\nMCC :      %@\nMNC :      %@\n\n—— CTCarrier en direct ——\nOpérateur :  %@\nCode ISO : %@ %@\nMCC :      %@ %@\nMNC :      %@ %@\n\n%@";
+"REGION_HOOK_OK"                  = "Le hook fonctionne correctement.";
+"REGION_HOOK_NOT_ACTIVE"          = "Le hook n'est pas encore actif.\nAssurez-vous d'appliquer après avoir changé de pays.";
+"REGION_BTN_OK"                   = "OK";
+"REGION_BTN_CLEAR"                = "Effacer la région";
+
+/* —— Autres projets / Développeur ————————————————————————————— */
+"OTHER_TWEAKS"                    = "Autres projets";
+"IKG_WORKSPACE"                   = "Espace de travail iKG";
+"SECTION_DEVELOPER"               = "DÉVELOPPEUR";
+
+/* —— Feuille d'action de téléchargement ————————————————————————— */
+"DL_SHEET_TITLE"                  = "TTKPlus";
+"DL_SAVE_VIDEO"                   = "Enregistrer la vidéo";
+"DL_DOWNLOAD_SHARE"               = "Télécharger et partager";
+"DL_DOWNLOAD_VIDEO_SHARE"         = "Télécharger la vidéo et partager";
+"DL_SAVE_AUDIO"                   = "Enregistrer l'audio";
+"DL_COPY_INFO"                    = "Copier les informations de la vidéo";
+"DL_CLEAR_DISPLAY"                = "Effacer l'affichage";
+"DL_RESTORE_DISPLAY"              = "Rétablir l'affichage";
+"DL_CANCEL"                       = "Annuler";
+
+/* —— Interface de sélection d'album ————————————————————————— */
+"DL_PHOTO_PICKER_TITLE"           = "Sélectionnez les photos à télécharger";
+"DL_MERGE_MUSIC_LABEL"            = "🎵 Fusionner les photos avec de la musique";
+"DL_BTN_SELECT_ALL"               = "  Tout sélectionner";
+"DL_BTN_DOWNLOAD_COUNT"           = "Télécharger (%lu)";
+"DL_BTN_SAVE_PHOTOS"              = "  Enregistrer dans Photos";
+
+/* —— Sélecteur de clics automatiques ———————————————————————————— */
+"AUTOCLICK_PICKER_TITLE"          = "❤️ Nombre de clics automatiques";
+"AUTOCLICK_PICKER_MSG"            = "Appuyez longuement pour changer";
+"AUTOCLICK_UNLIMITED"             = "Illimité ∞";
+
+/* —— Messages toast —————————————————————————————————————— */
+"TOAST_STOPPED"                   = "⏹ Arrêté";
+"TOAST_CANCELLED"                 = "❌ Annulé";
+"TOAST_START_HINT"                = "👆 Double-tapez n'importe où sur l'écran en direct pour démarrer les likes automatiques !";
+"TOAST_SET_UNLIMITED"             = "✅ Défini : Illimité ∞";
+"TOAST_SET_LIKES"                 = "✅ Défini : %ld likes";
+"TOAST_SENDING_LIKES"             = "▶️ Envoi de %@ likes…";
+"TOAST_NO_TOUCH"                  = "❌ Aucun toucher détecté";
+"TOAST_DOWNLOADING"               = "⬇️ Téléchargement…";
+"TOAST_DOWNLOADING_MUSIC"         = "⬇️ Téléchargement de la musique…";
+"TOAST_SAVED_PHOTOS"              = "✅ Enregistré dans Photos";
+"TOAST_SAVE_FAILED"               = "❌ Échec de l'enregistrement";
+"TOAST_NOT_FOUND"                 = "❌ Non trouvé";
+"TOAST_VIDEO_URL_NOT_FOUND"       = "❌ URL de la vidéo introuvable";
+"TOAST_AUDIO_URL_NOT_FOUND"       = "❌ URL de l'audio introuvable";
+"TOAST_ERROR_VIDEO_URL"           = "❌ Erreur lors de la récupération de l'URL de la vidéo";
+"TOAST_ERROR_AUDIO_URL"           = "❌ Erreur lors de la récupération de l'URL de l'audio";
+"TOAST_MUSIC_DL_FAILED"           = "❌ Échec du téléchargement de la musique";
+"TOAST_DL_FAILED"                 = "❌ Échec du téléchargement";
+"TOAST_COPIED"                    = "✅ Copié";
+"TOAST_DISPLAY_CLEARED"           = "🫥 Affichage effacé";
+"TOAST_DISPLAY_RESTORED"          = "👁 Affichage rétabli";
+"TOAST_NO_MODEL"                  = "⚠️ Modèle vidéo introuvable";
+"TOAST_NO_VC"                     = "⚠️ Contrôleur de vue introuvable";
+"TOAST_BUILDING_SLIDESHOW"        = "Création du diaporama (%lu photos + musique)…";
+"TOAST_SAVED_COUNT"               = "✅ %ld/%ld enregistré(s) dans Photos";
+"TOAST_SAVING_ITEMS"              = "Enregistrement de %lu élément(s)…";
+"TOAST_SLIDESHOW_SAVED"           = "✅ Diaporama (%lu photos) enregistré";
+"TOAST_SLIDESHOW_SAVE_FAILED"     = "❌ Échec de l'enregistrement du diaporama";
+"TOAST_AUDIO_MERGE_FAILED"        = "❌ Échec de la fusion audio";
+"TOAST_SLIDESHOW_WRITE_FAILED"    = "❌ Échec de l'écriture du diaporama";
+"TOAST_WRITER_INIT_FAILED"        = "❌ Échec de l'initialisation de l'écrivain";
+"TOAST_INVALID_IMAGE_SIZE"        = "❌ Taille d'image invalide";
+"TOAST_NO_PHOTOS_DL"              = "❌ Aucune photo téléchargée";
+"TOAST_WLCOM"                     = "👆 Appuyez longuement sur le profil pour accéder aux paramètres de TTKPlus.";
+"TTKPLUS_SETTING"                 = "⚙️ Paramètres TTKPlus";
+"TTKPLUS_CLEAR"                   = "🧹 Nettoyage TTKPlus";
+
+/* —— Pied de compatibilité ————————————————————————————————— */
+"compatible_ver"                  = "Compatible";
+"not_compatible_ver"              = "Non compatible";
+"compatible_legacy_ver"           = "Compatible (Ancien)";
+"unknown_ver"                     = "Inconnu";
+
+/* —— Sélecteur de langue ————————————————————————————————————— */
+"SELECT_LANGUAGE"                 = "Sélectionner la langue";
+"AUTO_LANGUAGE"                   = "Automatique (Système)";
+"CANCEL"                          = "Annuler";
+
+
+/* Effacer les caches */
+"clearonstartup" = "Effacer au démarrage";
+"clearcache" = "Effacer le cache";
+"On" = "Activé";
+"Off" = "Désactivé";
+"calculating" = "Calcul en cours...";
+
+/* Désassocier l'e-mail de la licence */
+"unlink_email" = "Dissocier l'e-mail";
+"unlink_confirmation" = "Confirmer la dissociation";
+"unlink_email_explanation" = "Souhaitez-vous vraiment dissocier cet e-mail de votre licence ?";
+"unlink" = "Dissocier";
+"error_unlink" = "Erreur";
+"error_unlink_desc" = "Impossible de dissocier l'e-mail.";
+"success_unlink" = "Succès";
+"success_unlink_desc" = "E-mail dissocié avec succès.";
+
+/* Invite pour l'activation */
+"license_option" = "Options de licence";
+"license_option_disc" = "Choisissez une option :";
+"activate_new_license" = "Activer une nouvelle licence";
+"restore_license" = "Restaurer la licence";
+"renew_license" = "Renouveler la licence";
+"buy_license" = "Acheter une licence";
+"activate_new_license_disc" = "Entrez votre e-mail et votre clé de licence ci-dessous.";
+"email" = "E-mail";
+"license_key" = "Clé de licence";
+"activate" = "Activer";
+"invalid_email" = "E-mail invalide";
+"invalid_email_disc" = "Veuillez entrer une adresse e-mail valide.";
+"invalid_license" = "Licence invalide";
+"license_key_empty" = "La clé de licence ne peut pas être vide.";
+"license_key_length_wrong" = "Longueur de clé de licence invalide.\nVeuillez entrer une clé valide.";
+
+/* Invite pour la restauration */
+"restore_notice" = "Processus de restauration mis à jour";
+"restore_notice_desc" = "Le processus de restauration a été modifié. Après la restauration, vous devrez copier la clé et revenir à l'activation pour la réactiver avec l'e-mail et la clé.";
+"restore_license_disc" = "Entrez l'e-mail associé à la licence.";
+"restore" = "Restaurer";
+"copy_license_key" = "Copier la clé de licence";
+"license_key_copied_to_clipboard" = "Clé de licence copiée dans le presse-papiers.";
+"license_details" = "Détails de la licence";
+"license_details_disc" = "Clé de licence : %@\n\nDate d'expiration : %@\n\n%@";
+"license_restored_successfully" = "La licence est active.";
+"license_restored" = "Licence restaurée";
+"restore_failed" = "Échec de la restauration";
+"copied_key" = "Copié dans le presse-papiers";
+
+/* Invite pour entrer la licence */
+"enter_license_key" = "Entrez la clé de licence";
+"enter_license_key_disc" = "Entrez votre clé de licence pour l'authentification.";
+"license_key_authenticated" = "Licence authentifiée. Expire le : %@";
+"authentication_successful" = "Authentification réussie";
+"key_used_on_another_device" = "Licence déjà activée sur un autre appareil.";
+"key_is_in_use_on_another_device" = "Cette licence est utilisée sur un autre appareil.";
+"email_associated_with_another_key" = "L'e-mail est déjà associé à une autre licence.";
+"authentication_failed" = "Échec de l'authentification";
+"email_associated_with_defferent_key" = "Cet e-mail est associé à une clé différente.";
+"key_expired" = "Clé expirée";
+"license_expired" = "Licence expirée";
+"license_expired_disc" = "Votre licence a expiré. Veuillez la renouveler.";
+"license_verification_failed" = "Échec de la vérification de la licence";
+"no_internet" = "Pas d'Internet";
+"no_internet_disc" = "Une connexion Internet est requise pour l'authentification.";
+"license_disc" = "La clé de licence entrée est invalide.";
+
+/* Autres éléments */

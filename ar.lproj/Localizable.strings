@@ -1,0 +1,226 @@
+/* ================================================================ /
+/ TTKillerPlus — Localizable.strings                               /
+/ تم الإنشاء في ٠٥/٠٤/٢٠٢٦                                            /
+/ بواسطة iKarwan                                                       /
+/ ================================================================ */
+
+/* ملاحظة!!! بعد الترجمة، أضف رمز بلدك: en - ar - zh إلخ. */
+
+/* ── عام ──────────────────────────────────────────────────── */
+"GLOB_ENABLED"                    = "مفعّل عالميًا";
+"GLOBAL_ENABLED_SWITCH"           = "اضغط على الزر في الأعلى يمينًا لتطبيق التغييرات.";
+"ACTIVE_VERIFIED"                 = "نشط (مُحقق)";
+"INACTIVE_VERIFY"                 = "غير نشط (تحقق من الترخيص)";
+
+/* ── قسم شريط التبويبات ──────────────────────────────────────── */
+"SECTION_TAB_BAR"                 = "شريط التبويبات";
+"HIDE_FRIENDS_TAB"                = "إخفاء تبويب الأصدقاء";
+"HIDE_FRIENDS_TAB_SUB"            = "إزالة تبويب الأصدقاء من الشريط السفلي";
+"HIDE_CREATE_TAB"                 = "إخفاء تبويب الإنشاء";
+"HIDE_CREATE_TAB_SUB"             = "إزالة زر الإنشاء (+) من الشريط السفلي";
+"HIDE_INBOX_TAB"                  = "إخفاء تبويب صندوق الوارد";
+"HIDE_INBOX_TAB_SUB"              = "إزالة تبويب صندوق الوارد/الإشعارات من الشريط السفلي";
+
+/* ── قسم الملف الشخصي ────────────────────────────────────────── */
+"SECTION_PROFILE"                 = "الملف الشخصي";
+"FOLLOW_STATUS_BADGE"             = "شارة حالة المتابعة";
+"FOLLOW_STATUS_BADGE_SUB"         = "إظهار شارة 🤝👁👻 بجانب اسم المستخدم في الملفات الشخصية";
+"VIDEO_COUNT_LABEL"               = "تسمية عدد الفيديوهات";
+"VIDEO_COUNT_LABEL_SUB"           = "إظهار عدد المنشورات بجانب زر الترتيب في الملفات الشخصية";
+"AVATAR_LONGPRESS"                = "الصورة الشخصية بالضغط الطويل ملء الشاشة";
+"AVATAR_LONGPRESS_SUB"            = "اضغط طويلاً على صورة الملف الشخصي لعرضها بحجم كامل وحفظها";
+
+/* ── قسم التغذية ─────────────────────────────────────────────── */
+"SECTION_FEED"                    = "التغذية";
+"AD_BLOCKER"                      = "حاجب الإعلانات";
+"AD_BLOCKER_SUB"                  = "إزالة الفيديوهات المروجة والإعلانية من تغذيتك";
+"COUNTRY_FLAG_PILL"               = "علامة علم الدولة";
+"COUNTRY_FLAG_PILL_SUB"           = "إظهار علم دولة المؤلف وعمر المنشور أثناء المشاهدة";
+"GRID_POST_DATES"                 = "تواريخ منشورات الشبكة";
+"GRID_POST_DATES_SUB"             = "إظهار التاريخ النسبي على مصغرات الشبكة في الملف الشخصي";
+"CLEAR_DISPLAY"                   = "شاشة واضحة";
+"CLEAR_DISPLAY_SUB"               = "إخفاء جميع التراكبات في واجهة المستخدم أثناء مشاهدة الفيديو";
+
+/* ── قسم التحميل ─────────────────────────────────────────────── */
+"SECTION_DOWNLOAD"                = "التحميل";
+"DOWNLOAD_BUTTON"                 = "زر التحميل";
+"DOWNLOAD_BUTTON_SUB"             = "إظهار زر الحفظ بجانب فيديوهات التغذية";
+
+/* ── قسم البث المباشر ──────────────────────────────────────────── */
+"SECTION_LIVE"                    = "البث المباشر";
+"LIVE_AUTO_CLICK"                 = "النقر التلقائي أثناء البث";
+"LIVE_AUTO_CLICK_SUB"             = "النقر تلقائيًا على الشاشة أثناء البث المباشر";
+
+/* ── قسم الرسائل والقصص ──────────────────────────────────────── */
+"SECTION_MSG_STORIES"             = "الرسائل والقصص";
+"STORY_EYE_BUTTON"                = "زر عين القصة";
+"STORY_EYE_BUTTON_SUB"            = "وضع علامة على القصة كمشاهدة أثناء مشاهدتها";
+"MSG_EYE_BUTTON"                  = "زر عين الرسالة";
+"MSG_EYE_BUTTON_SUB"              = "وضع علامة على المحادثة كمقروءة من داخل الدردشة";
+
+/* ── المنطقة (صف RootOptionsController) ──────────────────────── */
+"REGION"                          = "المنطقة";
+"REGION_NOT_SET"                  = "غير محدد";
+
+/* ── جدول الدول ──────────────────────────────────────────────── */
+"REGION_TITLE"                    = "المناطق";
+"REGION_SELECT_HEADER"            = "اختر منطقة";
+"REGION_FOOTER_ACTIVE"            = "نشط: %@  •  رمز: %@  •  MCC: %@  •  MNC: %@";
+"REGION_FOOTER_NONE"              = "لم يتم اختيار منطقة. اضغط على دولة لتفعيل التزوير.";
+
+/* تنبيه حالة جدول الدول */
+"REGION_STATUS_NO_TITLE"          = "لم يتم تحديد منطقة";
+"REGION_STATUS_NO_MSG"            = "لم يتم اختيار أي منطقة بعد.\n\n── CTCarrier المباشر──\nالناقل:  %@\nرمز ISO: %@\nMCC:      %@\nMNC:      %@";
+"REGION_STATUS_ACTIVE_TITLE"      = "✅ التزوير نشط!";
+"REGION_STATUS_INACTIVE_TITLE"    = "⚠️ غير نشط بعد";
+"REGION_STATUS_MSG"               = "المختار: %@\n\n── القيم المحفوظة──\nرمز ISO: %@\nMCC:      %@\nMNC:      %@\n\n── CTCarrier المباشر──\nالناقل:  %@\nرمز ISO: %@ %@\nMCC:      %@ %@\nMNC:      %@ %@\n\n%@";
+"REGION_HOOK_OK"                  = "الخطاف يعمل بشكل صحيح.";
+"REGION_HOOK_NOT_ACTIVE"          = "الخطاف غير نشط بعد.\nتأكد من تطبيق التغييرات بعد تغيير الدولة.";
+"REGION_BTN_OK"                   = "موافق";
+"REGION_BTN_CLEAR"                = "مسح المنطقة";
+
+/* ── مشاريع أخرى / المطور ──────────────────────────────────── */
+"OTHER_TWEAKS"                    = "مشاريع أخرى";
+"IKG_WORKSPACE"                   = "مساحة عمل iKG";
+"SECTION_DEVELOPER"               = "المطور";
+
+/* ── قائمة تحميل الإجراء ─────────────────────────────────────── */
+"DL_SHEET_TITLE"                  = "TTKPlus";
+"DL_SAVE_VIDEO"                   = "حفظ الفيديو";
+"DL_DOWNLOAD_SHARE"               = "التحميل والمشاركة";
+"DL_DOWNLOAD_VIDEO_SHARE"         = "تحميل الفيديو والمشاركة";
+"DL_SAVE_AUDIO"                   = "حفظ الصوت";
+"DL_COPY_INFO"                    = "نسخ معلومات الفيديو";
+"DL_CLEAR_DISPLAY"                = "مسح العرض";
+"DL_RESTORE_DISPLAY"              = "استعادة العرض";
+"DL_CANCEL"                       = "إلغاء";
+
+/* ── واجهة اختيار الألبوم ────────────────────────────────────── */
+"DL_PHOTO_PICKER_TITLE"           = "اختر الصور للتحميل";
+"DL_MERGE_MUSIC_LABEL"            = "🎵 دمج الصور بالموسيقى";
+"DL_BTN_SELECT_ALL"               = "  تحديد الكل";
+"DL_BTN_DOWNLOAD_COUNT"           = "تحميل (%lu)";
+"DL_BTN_SAVE_PHOTOS"              = "  حفظ إلى الصور";
+
+/* ── واجهة اختيار النقر التلقائي ──────────────────────────────── */
+"AUTOCLICK_PICKER_TITLE"          = "❤️ عدد النقرات التلقائية";
+"AUTOCLICK_PICKER_MSG"            = "اضغط طويلاً للتغيير";
+"AUTOCLICK_UNLIMITED"             = "غير محدود ∞";
+
+/* ── رسائل التنبيه ──────────────────────────────────────────── */
+"TOAST_STOPPED"                   = "⏹ توقف";
+"TOAST_CANCELLED"                 = "❌ تم الإلغاء";
+"TOAST_START_HINT"                = "👆 اضغط مرتين في أي مكان على شاشة البث المباشر لبدء الإعجابات التلقائية!";
+"TOAST_SET_UNLIMITED"             = "✅ تم الضبط: غير محدود ∞";
+"TOAST_SET_LIKES"                 = "✅ تم الضبط: %ld إعجابات";
+"TOAST_SENDING_LIKES"             = "▶️ يتم إرسال %@ إعجابات...";
+"TOAST_NO_TOUCH"                  = "❌ لم يتم تسجيل لمس";
+"TOAST_DOWNLOADING"               = "⬇️ جاري التحميل...";
+"TOAST_DOWNLOADING_MUSIC"         = "⬇️ جاري تحميل الموسيقى...";
+"TOAST_SAVED_PHOTOS"              = "✅ تم الحفظ إلى الصور";
+"TOAST_SAVE_FAILED"               = "❌ فشل الحفظ";
+"TOAST_NOT_FOUND"                 = "❌ غير موجود";
+"TOAST_VIDEO_URL_NOT_FOUND"       = "❌ لم يتم العثور على رابط الفيديو";
+"TOAST_AUDIO_URL_NOT_FOUND"       = "❌ لم يتم العثور على رابط الصوت";
+"TOAST_ERROR_VIDEO_URL"           = "❌ خطأ في الحصول على رابط الفيديو";
+"TOAST_ERROR_AUDIO_URL"           = "❌ خطأ في الحصول على رابط الصوت";
+"TOAST_MUSIC_DL_FAILED"           = "❌ فشل تحميل الموسيقى";
+"TOAST_DL_FAILED"                 = "❌ فشل التحميل";
+"TOAST_COPIED"                    = "✅ تم النسخ";
+"TOAST_DISPLAY_CLEARED"           = "🫥 تم مسح العرض";
+"TOAST_DISPLAY_RESTORED"          = "👁 تم استعادة العرض";
+"TOAST_NO_MODEL"                  = "⚠️ لم يتم العثور على نموذج الفيديو";
+"TOAST_NO_VC"                     = "⚠️ لم يتم العثور على متحكم العرض";
+"TOAST_BUILDING_SLIDESHOW"        = "جاري بناء عرض شرائح (%lu صور + موسيقى)...";
+"TOAST_SAVED_COUNT"               = "✅ تم حفظ %ld/%ld إلى الصور";
+"TOAST_SAVING_ITEMS"              = "جاري حفظ %lu عنصر(ات)...";
+"TOAST_SLIDESHOW_SAVED"           = "✅ تم حفظ عرض الشرائح (%lu صور)";
+"TOAST_SLIDESHOW_SAVE_FAILED"     = "❌ فشل حفظ عرض الشرائح";
+"TOAST_AUDIO_MERGE_FAILED"        = "❌ فشل دمج الصوت";
+"TOAST_SLIDESHOW_WRITE_FAILED"    = "❌ فشل كتابة عرض الشرائح";
+"TOAST_WRITER_INIT_FAILED"        = "❌ فشل تهيئة الكاتب";
+"TOAST_INVALID_IMAGE_SIZE"        = "❌ حجم الصورة غير صالح";
+"TOAST_NO_PHOTOS_DL"              = "❌ لم يتم تحميل أي صور";
+"TOAST_WLCOM"                     = "👆 اضغط طويلاً على الملف الشخصي للدخول إلى إعدادات TTKPlus.";
+"TTKPLUS_SETTING"                 = "⚙️ إعدادات TTKPlus";
+"TTKPLUS_CLEAR"                   = "🧹 تنظيف TTKPlus";
+
+/* ── تذييل التوافق ──────────────────────────────────────────── */
+"compatible_ver"                  = "متوافق";
+"not_compatible_ver"              = "غير متوافق";
+"compatible_legacy_ver"           = "متوافق (إصدار قديم)";
+"unknown_ver"                     = "غير معروف";
+
+/* ── اختيار اللغة ────────────────────────────────────────────── */
+"SELECT_LANGUAGE"                 = "اختر اللغة";
+"AUTO_LANGUAGE"                   = "تلقائي (النظام)";
+"CANCEL"                          = "إلغاء";
+
+
+/* clearCaches */
+"clearonstartup" = "مسح عند التشغيل";
+"clearcache" = "مسح الذاكرة المؤقتة";
+"On" = "تشغيل";
+"Off" = "إيقاف";
+"calculating" = "جارٍ الحساب...";
+
+/* Unlink Email from License */
+"unlink_email" = "إلغاء ربط البريد الإلكتروني";
+"unlink_confirmation" = "تأكيد الإلغاء";
+"unlink_email_explanation" = "هل أنت متأكد أنك تريد إلغاء ربط هذا البريد الإلكتروني من الترخيص؟";
+"unlink" = "إلغاء الربط";
+"error_unlink" = "خطأ";
+"error_unlink_desc" = "فشل إلغاء ربط البريد الإلكتروني.";
+"success_unlink" = "نجاح";
+"success_unlink_desc" = "تم إلغاء ربط البريد الإلكتروني بنجاح.";
+
+/* promptForActivation */
+"license_option" = "خيارات الترخيص";
+"license_option_disc" = "اختر خيارًا:";
+"activate_new_license" = "تفعيل ترخيص جديد";
+"restore_license" = "استعادة الترخيص";
+"renew_license" = "تجديد الترخيص";
+"buy_license" = "شراء ترخيص";
+"activate_new_license_disc" = "أدخل بريدك الإلكتروني ورمز الترخيص.";
+"email" = "البريد الإلكتروني";
+"license_key" = "رمز الترخيص";
+"activate" = "تفعيل";
+"invalid_email" = "بريد غير صالح";
+"invalid_email_disc" = "يرجى إدخال بريد إلكتروني صالح.";
+"invalid_license" = "ترخيص غير صالح";
+"license_key_empty" = "رمز الترخيص لا يمكن أن يكون فارغًا.";
+"license_key_length_wrong" = "طول رمز الترخيص غير صحيح.\nيرجى إدخال رمز صالح.";
+
+/* promptForRestore */
+"restore_notice" = "تم تحديث عملية الاستعادة";
+"restore_notice_desc" = "تم تغيير عملية الاستعادة. بعد استعادة الترخيص، يجب عليك نسخ المفتاح والعودة إلى شاشة التفعيل لإعادة التفعيل باستخدام بريدك الإلكتروني والمفتاح مرة أخرى.";
+"restore_license_disc" = "أدخل البريد الإلكتروني المرتبط بالترخيص.";
+"restore" = "استعادة";
+"copy_license_key" = "نسخ رمز الترخيص";
+"license_key_copied_to_clipboard" = "تم نسخ رمز الترخيص.";
+"license_details" = "تفاصيل الترخيص";
+"license_details_disc" = "رمز الترخيص: %@\n\nانتهاء الصلاحية: %@\n\n%@";
+"license_restored_successfully" = "الترخيص نشط.";
+"license_restored" = "تمت الاستعادة";
+"restore_failed" = "فشلت الاستعادة";
+"copied_key" = "تم النسخ";
+
+/* enter license prompt */
+"enter_license_key" = "أدخل رمز الترخيص";
+"enter_license_key_disc" = "أدخل رمز الترخيص للتحقق.";
+"license_key_authenticated" = "تم التحقق من الترخيص. ينتهي في: %@";
+"authentication_successful" = "تم التحقق بنجاح";
+"key_used_on_another_device" = "الترخيص مستخدم على جهاز آخر.";
+"key_is_in_use_on_another_device" = "هذا الترخيص قيد الاستخدام على جهاز آخر. استخدم رمزًا مختلفًا.";
+"email_associated_with_another_key" = "البريد مرتبط بترخيص آخر.";
+"authentication_failed" = "فشل التحقق";
+"email_associated_with_defferent_key" = "البريد مرتبط برمز مختلف. استخدم بريدًا أو رمزًا آخر.";
+"key_expired" = "انتهت صلاحية الرمز";
+"license_expired" = "الترخيص منتهي";
+"license_expired_disc" = "انتهت صلاحية الترخيص. يرجى التجديد.";
+"license_verification_failed" = "فشل التحقق من الترخيص";
+"no_internet" = "لا يوجد إنترنت";
+"no_internet_disc" = "الاتصال بالإنترنت مطلوب للتحقق.";
+"license_disc" = "رمز الترخيص الذي أدخلته غير صالح.";
+
+/* other stuff */

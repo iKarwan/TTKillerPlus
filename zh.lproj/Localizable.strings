@@ -29,6 +29,10 @@
 "VIDEO_COUNT_LABEL_SUB"           = "在个人资料中显示帖子数量在排序按钮旁边";
 "AVATAR_LONGPRESS"                = "长按头像全屏";
 "AVATAR_LONGPRESS_SUB"            = "长按个人资料照片以全屏查看并保存";
+"BIO_LONGPRESS"                   = "复制个人简介";
+"BIO_LONGPRESS_SUB"               = "长按个人资料简介以复制文本";
+"PROFILE_NO_TRACK_VIEW"           = "匿名查看";
+"PROFILE_NO_TRACK_VIEW_SUB"       = "匿名查看个人资料，不追踪查看记录";
 
 /* —— 动态 ———————————————————————————————————————————————— */
 "SECTION_FEED"                    = "动态";
@@ -144,6 +148,9 @@
 "TOAST_WLCOM"                     = "👆 长按个人资料以进入 TTKPlus 设置。";
 "TTKPLUS_SETTING"                 = "⚙️ TTKPlus 设置";
 "TTKPLUS_CLEAR"                   = "🧹 TTKPlus 清理";
+"BIO_COPIED"                      = "📋 个人简介已复制";
+"PROFILE_ANONYMOUS_VIEWED"        = "👁️ 已匿名查看个人资料 — 不追踪";
+"MARKED_AS_READ"                  = "👁 已标记为已读";
 
 /* —— 兼容性页脚 —————————————————————————————————————————— */
 "compatible_ver"                  = "兼容";
@@ -163,6 +170,8 @@
 "On" = "开";
 "Off" = "关";
 "calculating" = "计算中…";
+"clearcache_confirm" = "这将释放";
+"clearcache_success" = "的缓存已被清除。";
 
 /* Unlink Email from License */
 "unlink_email" = "解除邮箱绑定";

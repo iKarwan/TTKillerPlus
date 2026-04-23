@@ -29,6 +29,10 @@
 "VIDEO_COUNT_LABEL_SUB"           = "Affiche le nombre de publications à côté du bouton de tri sur les profils";
 "AVATAR_LONGPRESS"                = "Avatar en plein écran par appui long";
 "AVATAR_LONGPRESS_SUB"            = "Appui long sur une photo de profil pour l'afficher en pleine taille et l'enregistrer";
+"BIO_LONGPRESS"                   = "Copier les bios";
+"BIO_LONGPRESS_SUB"               = "Appuyez longuement sur une bio de profil pour copier le texte";
+"PROFILE_NO_TRACK_VIEW"           = "Voir anonymement";
+"PROFILE_NO_TRACK_VIEW_SUB"       = "Voir les profils de manière anonyme sans suivi des vues";
 
 /* —— Section Fil d'actualité ————————————————————————————————— */
 "SECTION_FEED"                    = "FIL D'ACTUALITÉ";
@@ -144,6 +148,9 @@
 "TOAST_WLCOM"                     = "👆 Appuyez longuement sur le profil pour accéder aux paramètres de TTKPlus.";
 "TTKPLUS_SETTING"                 = "⚙️ Paramètres TTKPlus";
 "TTKPLUS_CLEAR"                   = "🧹 Nettoyage TTKPlus";
+"BIO_COPIED"                      = "📋 Bio copiée";
+"PROFILE_ANONYMOUS_VIEWED"        = "👁️ Profil vu anonymement — pas de suivi";
+"MARKED_AS_READ"                  = "👁 Marqué comme lu";
 
 /* —— Pied de compatibilité ————————————————————————————————— */
 "compatible_ver"                  = "Compatible";
@@ -163,6 +170,8 @@
 "On" = "Activé";
 "Off" = "Désactivé";
 "calculating" = "Calcul en cours...";
+"clearcache_confirm" = "Cela libérera";
+"clearcache_success" = "de cache a été effacé.";
 
 /* Désassocier l'e-mail de la licence */
 "unlink_email" = "Dissocier l'e-mail";

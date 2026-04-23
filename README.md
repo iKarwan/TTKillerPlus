@@ -22,8 +22,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | TTKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [TikTok](https://ikghd.site/ipa/TikTok_44.6_TTKillerPlus_1.0.1.ipa) | com.zhiliaoapp.musically | 44.6.0 | 1.0.1 | IPA |
-        | [TrollStore](https://ikghd.site/ipa/TikTok_44.6_TTKillerPlus_1.0.1_TrollStore.tipa) | com.zhiliaoapp.musically | 44.6.0 | 1.0.1 | tipa |
+        | [TikTok](https://ikghd.site/ipa/TikTok_44.8_TTKillerPlus_1.1.ipa) | com.zhiliaoapp.musically | 44.8 | 1.1 | IPA |
+        | [TrollStore](https://ikghd.site/ipa/TikTok_44.8_TTKillerPlus_1.1_TrollStore.tipa) | com.zhiliaoapp.musically | 44.8 | 1.1 | tipa |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -54,7 +54,7 @@
 
 ### TrollStore TIPA
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* Copy this link [here](https://ikghd.site/ipa/TikTok_44.6_TTKillerPlus_1.0.1_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
+* Copy this link [here](https://ikghd.site/ipa/TikTok_44.8_TTKillerPlus_1.1_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
 
 
 ### Telegram Channel

@@ -29,6 +29,10 @@
 "VIDEO_COUNT_LABEL_SUB"           = "Muestra el conteo de publicaciones junto al botón de ordenar en los perfiles";
 "AVATAR_LONGPRESS"                = "Avatar a Pantalla Completa con Presión Larga";
 "AVATAR_LONGPRESS_SUB"            = "Presiona largo una foto de perfil para verla a tamaño completo y guardar";
+"BIO_LONGPRESS"                   = "Copiar biografías";
+"BIO_LONGPRESS_SUB"               = "Mantén presionada una biografía de perfil para copiar el texto";
+"PROFILE_NO_TRACK_VIEW"           = "Ver de forma anónima";
+"PROFILE_NO_TRACK_VIEW_SUB"       = "Ver perfiles de forma anónima sin rastreo de vistas";
 
 /* —— Sección Feed ———————————————————————————————————————— */
 "SECTION_FEED"                    = "FEED";
@@ -144,6 +148,9 @@
 "TOAST_WLCOM"                     = "👆 Mantén presionado el perfil para entrar a la configuración de TTKPlus.";
 "TTKPLUS_SETTING"                 = "⚙️ Configuración de TTKPlus";
 "TTKPLUS_CLEAR"                   = "🧹 Limpieza de TTKPlus";
+"BIO_COPIED"                      = "📋 Biografía copiada";
+"PROFILE_ANONYMOUS_VIEWED"        = "👁️ Perfil visto de forma anónima — sin rastreo";
+"MARKED_AS_READ"                  = "👁 Marcado como leído";
 
 /* —— Pie de Compatibilidad ———————————————————————————————— */
 "compatible_ver"                  = "Compatible";
@@ -163,6 +170,8 @@
 "On" = "Activado";
 "Off" = "Desactivado";
 "calculating" = "Calculando...";
+"clearcache_confirm" = "Esto liberará";
+"clearcache_success" = "de caché ha sido limpiado.";
 
 /* Unlink Email from License */
 "unlink_email" = "Desvincular correo";

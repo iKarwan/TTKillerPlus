@@ -29,6 +29,10 @@
 "VIDEO_COUNT_LABEL_SUB"           = "Show post count next to the sort button on profiles";
 "AVATAR_LONGPRESS"                = "Avatar Long-Press Fullscreen";
 "AVATAR_LONGPRESS_SUB"            = "Long-press a profile picture to view it full size & save";
+"BIO_LONGPRESS"                   = "Copy bios";
+"BIO_LONGPRESS_SUB"               = "Long-press a profile bios to copy the text";
+"PROFILE_NO_TRACK_VIEW"           = "Anonymously view";
+"PROFILE_NO_TRACK_VIEW_SUB"       = "View profiles anonymously no track view";
 
 /* ── Feed section ─────────────────────────────────────────────── */
 "SECTION_FEED"                    = "FEED";
@@ -144,6 +148,10 @@
 "TOAST_WLCOM"                     = "👆 long press on profile to enter TTKPlus ⚙️ setting.";
 "TTKPLUS_SETTING"                 = "⚙️ TTKPlus Settings";
 "TTKPLUS_CLEAR"                   = "🧹 TTKPlus clean";
+"BIO_COPIED"                      = "📋 Bio copied";
+"PROFILE_ANONYMOUS_VIEWED"        = "👁️ Profile viewed anonymously — no track";
+"MARKED_AS_READ"                  = "👁 Marked as read";
+
 
 /* ── Compatibility footer ─────────────────────────────────────── */
 "compatible_ver"                  = "Compatible";
@@ -163,6 +171,8 @@
 "On" = "On";
 "Off" = "Off";
 "calculating" = "Calculating…";
+"clearcache_confirm" = "This will free up";
+"clearcache_success" = "of cache has been cleared.";
 
 /* Unlink Email from License */
 "unlink_email" = "Unlink Email";

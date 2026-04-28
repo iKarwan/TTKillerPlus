@@ -22,8 +22,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | TTKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [TikTok](https://ikghd.site/ipa/TikTok_44.8_TTKillerPlus_1.2.1.ipa) | com.zhiliaoapp.musically | 44.8 | 1.2.1 | IPA |
-        | [TrollStore](https://ikghd.site/ipa/TikTok_44.8_TTKillerPlus_1.2.1_TrollStore.tipa) | com.zhiliaoapp.musically | 44.8 | 1.2.1 | tipa |
+        | [TikTok](https://ikghd.site/ipa/TikTok_44.9_TTKillerPlus_1.2.2.ipa) | com.zhiliaoapp.musically | 44.9 | 1.2.2 | IPA |
+        | [TrollStore](https://ikghd.site/ipa/TikTok_44.9_TTKillerPlus_1.2.2_TrollStore.tipa) | com.zhiliaoapp.musically | 44.9 | 1.2.2 | tipa |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -54,7 +54,13 @@
 
 ### TrollStore TIPA
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* Copy this link [here](https://ikghd.site/ipa/TikTok_44.8_TTKillerPlus_1.2.1_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
+* Copy this link [here](https://ikghd.site/ipa/TikTok_44.9_TTKillerPlus_1.2.2_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
+
+
+### LiveContainer App
+* Download and install LiveContainer from [here](https://github.com/LiveContainer/LiveContainer).
+* Copy this link [here](https://ikghd.site/ipa/TikTok_44.9_TTKillerPlus_1.2.2.ipa) and paste it into the "URL" option in LiveContainer.
+* or just add the repo 'repo.ikghd.me/repo.json' and paste it into the "add URL" option in LiveContainer.
 
 
 ### Telegram Channel

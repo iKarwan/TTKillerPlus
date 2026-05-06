@@ -22,8 +22,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | TTKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [TikTok](https://ikghd.site/ipa/TikTok_44.9_TTKillerPlus_1.2.2.ipa) | com.zhiliaoapp.musically | 44.9 | 1.2.2 | IPA |
-        | [TrollStore](https://ikghd.site/ipa/TikTok_44.9_TTKillerPlus_1.2.2_TrollStore.tipa) | com.zhiliaoapp.musically | 44.9 | 1.2.2 | tipa |
+        | [TikTok](https://ikghd.site/ipa/TikTok_45.0_TTKillerPlus_1.2.4.ipa) | com.zhiliaoapp.musically | 45.0 | 1.2.4 | IPA |
+        | [TrollStore](https://ikghd.site/ipa/TikTok_45.0_TTKillerPlus_1.2.4_TrollStore.tipa) | com.zhiliaoapp.musically | 45.0 | 1.2.4 | tipa |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -48,21 +48,18 @@
 
 ### Installing with third party AppStore
 *
-    * You can copy and add this source to your source list AltStore, FlekSt0re, Signulous, LC, Feather, Esign, Gbox, etc ..
+    * You can copy and add this source to your source list AltStore, FlekSt0re, Signulous, LC, Esign, etc ..
     * [ https://repo.ikghd.me/repo.json
 
 
 ### TrollStore TIPA
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* Copy this link [here](https://ikghd.site/ipa/TikTok_44.9_TTKillerPlus_1.2.2_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
+* Copy this link [here](https://ikghd.site/ipa/TikTok_45.0_TTKillerPlus_1.2.4_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
 
 
 ### Telegram Channel
 * You can always download the IPA from our Telegram channel using the link [here](https://t.me/ikgipa).
 
-
-## Localization
-* TTKillerPlus fully supports localization. If you'd like to add your language, please download the English file, translate it completely, then open a pull request or send it via email to (ikghd3@gmail) to be added in a future update.
 
 ### Donations
 * Donations are always appreciated to keep the project going!

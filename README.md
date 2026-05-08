@@ -16,17 +16,25 @@
 
 ## Download Links
 
-* **Jailbreak:** Add __[https://repo.ikghd.me](https://repo.ikghd.me)__ to your Cydia/Zebra/Sileo sources and download it from there.
-* **Sideloading || TrollStore (No Jailbreak):**
+<details>
+<summary><b>🔒 Jailbreak</b></summary>
 
-    1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
-        | Application | Bundle | Version | TTKillerPlus | File Type |
-        | ------------------ |:---------:|:------:|:------:|:------:|
-        | [TikTok](https://ikghd.site/ipa/TikTok_45.0_TTKillerPlus_1.2.4.ipa) | com.zhiliaoapp.musically | 45.0 | 1.2.4 | IPA |
-        | [TrollStore](https://ikghd.site/ipa/TikTok_45.0_TTKillerPlus_1.2.4_TrollStore.tipa) | com.zhiliaoapp.musically | 45.0 | 1.2.4 | tipa |
+Add `https://repo.ikghd.me` to your Cydia / Zebra / Sileo sources and download from there.
 
+</details>
 
-## How to Sideload on non-jailbroken devices
+<details>
+<summary><b>📦 Sideloading / TrollStore (No Jailbreak)</b></summary>
+
+| Application | Bundle | Version | TTKillerPlus | File Type |
+|---|---|---|---|---|
+| [TikTok ↓](https://ikghd.site/ipa/TikTok_45.0_TTKillerPlus_1.2.4.ipa) | com.zhiliaoapp.musically | 45.0 | 1.2.4 | IPA |
+| [TrollStore ↓](https://ikghd.site/ipa/TikTok_45.0_TTKillerPlus_1.2.4_TrollStore.tipa) | com.zhiliaoapp.musically | 45.0 | 1.2.4 | tipa |
+
+</details>
+
+<details>
+<summary><b>How to Sideload on non-jailbroken devices</b></summary>
 ### Requirementsz
 1. A computer running macOS or Windows
 2. Internet connection
@@ -60,6 +68,7 @@
 ### Telegram Channel
 * You can always download the IPA from our Telegram channel using the link [here](https://t.me/ikgipa).
 
+</details>
 
 ### Donations
 * Donations are always appreciated to keep the project going!

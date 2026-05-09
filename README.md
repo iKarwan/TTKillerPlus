@@ -28,14 +28,14 @@ Add `https://repo.ikghd.me` to your Cydia / Zebra / Sileo sources and download f
 
 | Application | Bundle | Version | TTKillerPlus | File Type |
 |---|---|---|---|---|
-| [TikTok ↓](https://ikghd.site/ipa/TikTok_45.0_TTKillerPlus_1.2.4.ipa) | com.zhiliaoapp.musically | 45.0 | 1.2.4 | IPA |
-| [TrollStore ↓](https://ikghd.site/ipa/TikTok_45.0_TTKillerPlus_1.2.4_TrollStore.tipa) | com.zhiliaoapp.musically | 45.0 | 1.2.4 | tipa |
+| [TikTok ↓](https://ikghd.site/ipa/TikTok_45.0_TTKillerPlus_1.3.2.ipa) | com.zhiliaoapp.musically | 45.0 | 1.3.2 | IPA |
+| [TrollStore ↓](https://ikghd.site/ipa/TikTok_45.0_TTKillerPlus_1.3.2_TrollStore.tipa) | com.zhiliaoapp.musically | 45.0 | 1.3.2 | tipa |
 
 </details>
 
 <details>
 <summary><b>How to Sideload on non-jailbroken devices</b></summary>
-   
+
 ### Requirementsz
 1. A computer running macOS or Windows
 2. Internet connection
@@ -63,7 +63,7 @@ Add `https://repo.ikghd.me` to your Cydia / Zebra / Sileo sources and download f
 
 ### TrollStore TIPA
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* Copy this link [here](https://ikghd.site/ipa/TikTok_45.0_TTKillerPlus_1.2.4_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
+* Copy this link [here](https://ikghd.site/ipa/TikTok_45.0_TTKillerPlus_1.3.2_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
 
 
 ### Telegram Channel
@@ -73,5 +73,5 @@ Add `https://repo.ikghd.me` to your Cydia / Zebra / Sileo sources and download f
 
 ### Donations
 > Donations are always appreciated to keep the project going!
-> 
+>
 > [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=HG4NT5LFR29DW) [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Donate-yellow?logo=buymeacoffee)](https://www.buymeacoffee.com/ikghd)

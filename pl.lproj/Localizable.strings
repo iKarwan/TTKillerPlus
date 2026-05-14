@@ -40,6 +40,20 @@
 "COUNTRY_FLAG_PILL_SUB"           = "Pokaż flagę kraju autora + wiek posta podczas oglądania";
 "GRID_POST_DATES"                 = "Daty postów w siatce";
 "GRID_POST_DATES_SUB"             = "Pokaż względną datę na miniaturach siatki profilu";
+"DISABLE_WARNINGS"                = "Wyłącz ostrzeżenia";
+"DISABLE_WARNINGS_SUB"            = "Ukryj wyskakujące ostrzeżenia podczas przeglądania";
+"DISABLE_UNSENSITIVE"             = "Wyłącz filtr treści wrażliwych";
+"DISABLE_UNSENSITIVE_SUB"         = "Pokazuj treści bez ograniczeń dla treści wrażliwych";
+"SKIP_RECOMMENDATIONS"            = "Pomiń rekomendacje";
+"SKIP_RECOMMENDATIONS_SUB"        = "Pomiń sugerowane filmy i przejdź do zwykłych treści feedu";
+"DISABLE_LIVE"                    = "Wyłącz treści LIVE";
+"DISABLE_LIVE_SUB"                = "Ukryj filmy LIVE w Twoim feedzie";
+"LIKE_CONFIRMATION"               = "Potwierdzenie polubienia";
+"LIKE_CONFIRMATION_SUB"           = "Pytaj przed polubieniem filmu";
+"FOLLOW_CONFIRMATION"             = "Potwierdzenie obserwowania";
+"FOLLOW_CONFIRMATION_SUB"         = "Pytaj przed obserwowaniem twórcy";
+"LIKE_COMMENT_CONFIRMATION"       = "Potwierdzenie polubienia komentarza";
+"LIKE_COMMENT_CONFIRMATION_SUB"   = "Pytaj przed polubieniem komentarza";
 "CLEAR_DISPLAY"                   = "Wyczyść ekran";
 "CLEAR_DISPLAY_SUB"               = "Ukryj wszystkie nakładki UI podczas oglądania filmu";
 

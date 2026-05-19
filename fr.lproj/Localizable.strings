@@ -34,6 +34,11 @@
 "PROFILE_NO_TRACK_VIEW"           = "Voir anonymement";
 "PROFILE_NO_TRACK_VIEW_SUB"       = "Voir les profils de manière anonyme sans suivi des vues";
 
+"FOLLOW_STATUS_MUTUAL"          = "🤝 Vous et %@ vous suivez mutuellement";
+"FOLLOW_STATUS_THEY_FOLLOW"     = "👁 %@ vous suit mais pas vous";
+"FOLLOW_STATUS_YOU_FOLLOW"      = "👻 Vous suivez %@ mais il/elle ne vous suit pas";
+"FOLLOW_STATUS_NONE"            = "👻 Vous et %@ ne vous suivez pas";
+
 /* —— Section Fil d'actualité ————————————————————————————————— */
 "SECTION_FEED"                    = "FIL D'ACTUALITÉ";
 "AD_BLOCKER"                      = "Bloqueur de publicités";
@@ -44,6 +49,27 @@
 "GRID_POST_DATES_SUB"             = "Affiche la date relative sur les miniatures de la grille de profil";
 "CLEAR_DISPLAY"                   = "Affichage clair";
 "CLEAR_DISPLAY_SUB"               = "Masque toutes les superpositions de l'interface utilisateur pendant la lecture d'une vidéo";
+
+"DISABLE_WARNINGS"              = "Désactiver les avertissements";
+"DISABLE_WARNINGS_SUB"          = "Supprimer les fenêtres de confirmation";
+
+"DISABLE_UNSENSITIVE"           = "Afficher contenu sensible";
+"DISABLE_UNSENSITIVE_SUB"       = "Afficher automatiquement le contenu masqué";
+
+"SKIP_RECOMMENDATIONS"          = "Passer les recommandations";
+"SKIP_RECOMMENDATIONS_SUB"     = "Passer les suggestions automatiquement";
+
+"DISABLE_LIVE"                  = "Désactiver LIVE";
+"DISABLE_LIVE_SUB"              = "Masquer les vidéos LIVE";
+
+"FOLLOW_CONFIRMATION"           = "Confirmation de suivi";
+"FOLLOW_CONFIRMATION_SUB"       = "Afficher une confirmation avant de suivre";
+
+"LIKE_CONFIRMATION"             = "Confirmation de like";
+"LIKE_CONFIRMATION_SUB"         = "Afficher une confirmation avant d’aimer une vidéo";
+
+"LIKE_COMMENT_CONFIRMATION"     = "Confirmation like commentaire";
+"LIKE_COMMENT_CONFIRMATION_SUB" = "Confirmer avant d’aimer un commentaire";
 
 /* —— Section Téléchargement ————————————————————————————————— */
 "SECTION_DOWNLOAD"                = "TÉLÉCHARGEMENT";
@@ -152,6 +178,10 @@
 "PROFILE_ANONYMOUS_VIEWED"        = "👁️ Profil vu anonymement — pas de suivi";
 "MARKED_AS_READ"                  = "👁 Marqué comme lu";
 
+"CONFIRM_DESC"                  = "Êtes-vous sûr ?";
+"CONFIRM_YES"                   = "Oui";
+"CONFIRM_NO"                    = "Non";
+
 /* —— Pied de compatibilité ————————————————————————————————— */
 "compatible_ver"                  = "Compatible";
 "not_compatible_ver"              = "Non compatible";
@@ -188,7 +218,7 @@
 "license_option_disc" = "Choisissez une option :";
 "activate_new_license" = "Activer une nouvelle licence";
 "restore_license" = "Restaurer la licence";
-"renew_license" = "Renouveler la licence";
+"renew_license" = "Acheter un abonnement";
 "buy_license" = "Acheter une licence";
 "activate_new_license_disc" = "Entrez votre e-mail et votre clé de licence ci-dessous.";
 "email" = "E-mail";

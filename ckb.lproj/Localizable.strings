@@ -34,6 +34,11 @@
 "PROFILE_NO_TRACK_VIEW"           = "دیتنی بەناوناسایی";
 "PROFILE_NO_TRACK_VIEW_SUB"       = "دیتنی پرۆفایڵەکان بەناوناسایی بۆ دەستنەخۆی دیتن";
 
+"FOLLOW_STATUS_MUTUAL"          = "🤝 تۆ و %@ یەکتر تتابع دەکەن";
+"FOLLOW_STATUS_THEY_FOLLOW"     = "👁 %@ تۆ دەبات بەڵام تۆ ئەو ناکەویت";
+"FOLLOW_STATUS_YOU_FOLLOW"      = "👻 تۆ %@ دەبات بەڵام ئەو تۆ ناکەویت";
+"FOLLOW_STATUS_NONE"            = "👻 تۆ و %@ یەکتر ناکەوتن";
+
 /* ── بەشی فید ──────────────────────────────────────────────── */
 "SECTION_FEED"                    = "فید";
 "AD_BLOCKER"                      = "دەستگێڕی ئاگاهەکان";
@@ -44,6 +49,27 @@
 "GRID_POST_DATES_SUB"             = "پیشاندانی بەروار لەسەر وێنەی تۆرەکانی پرۆفایل";
 "CLEAR_DISPLAY"                   = "پەخشەی زێل";
 "CLEAR_DISPLAY_SUB"               = "شاردنەوەی هەمی لایەکانی بەکارھێنەر لەکاتی تماشاکردنی ڤیدیۆ";
+
+"DISABLE_WARNINGS"              = "لەکارخستنی ئاگادارکردنەوەکان";
+"DISABLE_WARNINGS_SUB"          = "لابردنی پەیامی دڵنیایی و ئاگادارکردنەوەکان";
+
+"DISABLE_UNSENSITIVE"           = "نیشاندانی ناوەڕۆکی هەستیار";
+"DISABLE_UNSENSITIVE_SUB"       = "نیشاندانی ناوەڕۆکی شاراوە بە شێوەی خۆکار";
+
+"SKIP_RECOMMENDATIONS"          = "تێپەڕاندنی پێشنیارەکان";
+"SKIP_RECOMMENDATIONS_SUB"     = "تێپەڕاندنی پەڕەکانی پێشنیار بە شێوەی خۆکار";
+
+"DISABLE_LIVE"                  = "لەکارخستنی پەخشکردنی ڕاستەوخۆ";
+"DISABLE_LIVE_SUB"              = "شارنەوەی LIVE و ناوەڕۆکی پەیوەندیدار";
+
+"FOLLOW_CONFIRMATION"           = "دڵنیابوونەوەی فۆڵۆ";
+"FOLLOW_CONFIRMATION_SUB"       = "پەیامی دڵنیایی پێش فۆڵۆکردن";
+
+"LIKE_CONFIRMATION"             = "دڵنیابوونەوەی لایک";
+"LIKE_CONFIRMATION_SUB"         = "پەیامی دڵنیایی پێش لایککردن";
+
+"LIKE_COMMENT_CONFIRMATION"     = "دڵنیابوونەوەی لایک لە کۆمێنت";
+"LIKE_COMMENT_CONFIRMATION_SUB" = "پەیامی دڵنیایی پێش لایککردنی کۆمێنت";
 
 /* ── بەشی داگرتن ────────────────────────────────────────────── */
 "SECTION_DOWNLOAD"                = "داگرتن";
@@ -152,6 +178,10 @@
 "PROFILE_ANONYMOUS_VIEWED"        = "👁️ پرۆفایڵەکە بەناوناسایی دیترا — دەستنەخۆی دیتن نەیە";
 "MARKED_AS_READ"                  = "👁 بۆ خۆوندن نیشاندرا";
 
+"CONFIRM_DESC"                  = "دڵنیایت؟";
+"CONFIRM_YES"                   = "بەڵێ";
+"CONFIRM_NO"                    = "نەخێر";
+
 /* ــ پێنەوەی هەمگرتن ─────────────────────────────────────────── */
 "compatible_ver"                  = "هەمگرا";
 "not_compatible_ver"              = "نەهەمگرا";
@@ -188,7 +218,7 @@
 "license_option_disc" = "هەڵبژێرە:";
 "activate_new_license" = "چالاککردنی مۆڵەتی نوێ";
 "restore_license" = "گەڕاندنەوەی مۆڵەت";
-"renew_license" = "نوێکردنەوەی مۆڵەت";
+"renew_license" = "کڕینی بەشداری";
 "buy_license" = "کڕینی مۆڵەت";
 "activate_new_license_disc" = "پۆستی ئەلیکترۆنی و کۆدی مۆڵەت بنووسە.";
 "email" = "ئیمەیڵ";

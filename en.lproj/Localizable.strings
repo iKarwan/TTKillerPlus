@@ -34,6 +34,11 @@
 "PROFILE_NO_TRACK_VIEW"           = "Anonymously view";
 "PROFILE_NO_TRACK_VIEW_SUB"       = "View profiles anonymously no track view";
 
+"FOLLOW_STATUS_MUTUAL"          = "🤝 You and %@ follow each other";
+"FOLLOW_STATUS_THEY_FOLLOW"     = "👁 %@ follows you but you don't follow back";
+"FOLLOW_STATUS_YOU_FOLLOW"      = "👻 You follow %@ but they don't follow back";
+"FOLLOW_STATUS_NONE"            = "👻 You and %@ don't follow each other";
+
 /* ── Feed section ─────────────────────────────────────────────── */
 "SECTION_FEED"                    = "FEED";
 "AD_BLOCKER"                      = "Ad Blocker";
@@ -44,6 +49,24 @@
 "GRID_POST_DATES_SUB"             = "Show relative date on profile grid thumbnails";
 "CLEAR_DISPLAY"                   = "Clear Display";
 "CLEAR_DISPLAY_SUB"               = "Hide all UI overlays while watching a video";
+
+"DISABLE_WARNINGS"                = "Disable Warnings";
+"DISABLE_WARNINGS_SUB"            = "Remove confirmation dialogs and warning popups while using the app";
+"DISABLE_UNSENSITIVE"             = "Disable Sensitive Content Blur";
+"DISABLE_UNSENSITIVE_SUB"         = "Automatically reveal sensitive or blurred content without extra prompts";
+
+"SKIP_RECOMMENDATIONS"            = "Skip Recommendations";
+"SKIP_RECOMMENDATIONS_SUB"        = "Automatically skip recommendation screens and suggested content sections";
+"DISABLE_LIVE"                    = "Disable LIVE";
+"DISABLE_LIVE_SUB"                = "Hide LIVE streams and LIVE-related content throughout the Feed";
+
+"FOLLOW_CONFIRMATION"             = "Follow Confirmation";
+"FOLLOW_CONFIRMATION_SUB"         = "Show a confirmation alert before following an account";
+"LIKE_CONFIRMATION"               = "Like Confirmation";
+"LIKE_CONFIRMATION_SUB"           = "Show a confirmation alert before liking a video";
+"LIKE_COMMENT_CONFIRMATION"       = "Comment Like Confirmation";
+"LIKE_COMMENT_CONFIRMATION_SUB"   = "Show a confirmation alert before liking a comment";
+
 
 /* ── Download section ─────────────────────────────────────────── */
 "SECTION_DOWNLOAD"                = "DOWNLOAD";
@@ -152,6 +175,9 @@
 "PROFILE_ANONYMOUS_VIEWED"        = "👁️ Profile viewed anonymously — no track";
 "MARKED_AS_READ"                  = "👁 Marked as read";
 
+"CONFIRM_DESC"                    = "Are you sure?";
+"CONFIRM_YES"                     = "Yes";
+"CONFIRM_NO"                      = "No";
 
 /* ── Compatibility footer ─────────────────────────────────────── */
 "compatible_ver"                  = "Compatible";
@@ -189,7 +215,7 @@
 "license_option_disc" = "Select an option:";
 "activate_new_license" = "Activate New License";
 "restore_license" = "Restore License";
-"renew_license" = "Renew License";
+"renew_license" = "Buy Subscription";
 "buy_license" = "Buy License";
 "activate_new_license_disc" = "Enter your email and license key below.";
 "email" = "Email";

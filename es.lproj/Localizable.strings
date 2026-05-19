@@ -34,6 +34,11 @@
 "PROFILE_NO_TRACK_VIEW"           = "Ver de forma anónima";
 "PROFILE_NO_TRACK_VIEW_SUB"       = "Ver perfiles de forma anónima sin rastreo de vistas";
 
+"FOLLOW_STATUS_MUTUAL"          = "🤝 Tú y %@ se siguen mutuamente";
+"FOLLOW_STATUS_THEY_FOLLOW"     = "👁 %@ te sigue pero tú no";
+"FOLLOW_STATUS_YOU_FOLLOW"      = "👻 Sigues a %@ pero no te sigue";
+"FOLLOW_STATUS_NONE"            = "👻 Tú y %@ no se siguen";
+
 /* —— Sección Feed ———————————————————————————————————————— */
 "SECTION_FEED"                    = "FEED";
 "AD_BLOCKER"                      = "Bloqueador de Anuncios";
@@ -44,6 +49,27 @@
 "GRID_POST_DATES_SUB"             = "Muestra la fecha relativa en las miniaturas de la cuadrícula del perfil";
 "CLEAR_DISPLAY"                   = "Pantalla Clara";
 "CLEAR_DISPLAY_SUB"               = "Oculta todas las superposiciones de la interfaz de usuario mientras ves un video";
+
+"DISABLE_WARNINGS"              = "Desactivar advertencias";
+"DISABLE_WARNINGS_SUB"          = "Eliminar ventanas de confirmación y advertencias";
+
+"DISABLE_UNSENSITIVE"           = "Mostrar contenido sensible";
+"DISABLE_UNSENSITIVE_SUB"       = "Mostrar contenido oculto automáticamente";
+
+"SKIP_RECOMMENDATIONS"          = "Saltar recomendaciones";
+"SKIP_RECOMMENDATIONS_SUB"     = "Saltar pantallas de sugerencias automáticamente";
+
+"DISABLE_LIVE"                  = "Desactivar LIVE";
+"DISABLE_LIVE_SUB"              = "Ocultar transmisiones en vivo";
+
+"FOLLOW_CONFIRMATION"           = "Confirmación de seguimiento";
+"FOLLOW_CONFIRMATION_SUB"       = "Mostrar confirmación antes de seguir";
+
+"LIKE_CONFIRMATION"             = "Confirmación de me gusta";
+"LIKE_CONFIRMATION_SUB"         = "Mostrar confirmación antes de dar like";
+
+"LIKE_COMMENT_CONFIRMATION"     = "Confirmación de like en comentario";
+"LIKE_COMMENT_CONFIRMATION_SUB" = "Confirmar antes de dar like a un comentario";
 
 /* —— Sección Descarga ———————————————————————————————————— */
 "SECTION_DOWNLOAD"                = "DESCARGA";
@@ -152,6 +178,10 @@
 "PROFILE_ANONYMOUS_VIEWED"        = "👁️ Perfil visto de forma anónima — sin rastreo";
 "MARKED_AS_READ"                  = "👁 Marcado como leído";
 
+"CONFIRM_DESC"                  = "¿Estás seguro?";
+"CONFIRM_YES"                   = "Sí";
+"CONFIRM_NO"                    = "No";
+
 /* —— Pie de Compatibilidad ———————————————————————————————— */
 "compatible_ver"                  = "Compatible";
 "not_compatible_ver"              = "No Compatible";
@@ -188,7 +218,7 @@
 "license_option_disc" = "Elige una opción:";
 "activate_new_license" = "Activar nueva licencia";
 "restore_license" = "Restaurar licencia";
-"renew_license" = "Renovar licencia";
+"renew_license" = "Comprar suscripción";
 "buy_license" = "Comprar licencia";
 "activate_new_license_disc" = "Ingresa tu correo electrónico y clave de licencia.";
 "email" = "Correo electrónico";

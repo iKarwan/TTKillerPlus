@@ -34,6 +34,11 @@
 "PROFILE_NO_TRACK_VIEW"           = "مشاهدة مجهولة";
 "PROFILE_NO_TRACK_VIEW_SUB"       = "مشاهدة الملفات الشخصية دون تتبع المشاهدات";
 
+"FOLLOW_STATUS_MUTUAL"          = "🤝 أنت و %@ تتابعان بعضكما البعض";
+"FOLLOW_STATUS_THEY_FOLLOW"     = "👁 %@ يتابعك لكنك لا تتابعه";
+"FOLLOW_STATUS_YOU_FOLLOW"      = "👻 أنت تتابع %@ لكنه لا يتابعك";
+"FOLLOW_STATUS_NONE"            = "👻 أنت و %@ لا تتابعان بعضكما";
+
 /* ── قسم التغذية ─────────────────────────────────────────────── */
 "SECTION_FEED"                    = "التغذية";
 "AD_BLOCKER"                      = "حاجب الإعلانات";
@@ -44,6 +49,27 @@
 "GRID_POST_DATES_SUB"             = "إظهار التاريخ النسبي على مصغرات الشبكة في الملف الشخصي";
 "CLEAR_DISPLAY"                   = "شاشة واضحة";
 "CLEAR_DISPLAY_SUB"               = "إخفاء جميع التراكبات في واجهة المستخدم أثناء مشاهدة الفيديو";
+
+"DISABLE_WARNINGS"              = "تعطيل التحذيرات";
+"DISABLE_WARNINGS_SUB"          = "إزالة نوافذ التأكيد والتنبيهات أثناء استخدام التطبيق";
+
+"DISABLE_UNSENSITIVE"           = "إظهار المحتوى الحساس";
+"DISABLE_UNSENSITIVE_SUB"       = "إظهار المحتوى المخفي أو الحساس تلقائياً بدون تنبيهات";
+
+"SKIP_RECOMMENDATIONS"          = "تخطي التوصيات";
+"SKIP_RECOMMENDATIONS_SUB"     = "تخطي صفحات الاقتراحات والمحتوى الموصى به تلقائياً";
+
+"DISABLE_LIVE"                  = "تعطيل البث المباشر";
+"DISABLE_LIVE_SUB"              = "إخفاء البث المباشر والمحتوى المرتبط به في الخلاصة";
+
+"FOLLOW_CONFIRMATION"           = "تأكيد المتابعة";
+"FOLLOW_CONFIRMATION_SUB"       = "عرض رسالة تأكيد قبل متابعة حساب";
+
+"LIKE_CONFIRMATION"             = "تأكيد الإعجاب";
+"LIKE_CONFIRMATION_SUB"         = "عرض رسالة تأكيد قبل الإعجاب بفيديو";
+
+"LIKE_COMMENT_CONFIRMATION"     = "تأكيد إعجاب التعليق";
+"LIKE_COMMENT_CONFIRMATION_SUB" = "عرض رسالة تأكيد قبل الإعجاب بتعليق";
 
 /* ── قسم التحميل ─────────────────────────────────────────────── */
 "SECTION_DOWNLOAD"                = "التحميل";
@@ -152,6 +178,10 @@
 "PROFILE_ANONYMOUS_VIEWED"        = "👁️ تم مشاهدة الملف الشخصي بشكل مجهول — بدون تتبع";
 "MARKED_AS_READ"                  = "👁 تم وضع علامة كمقروء";
 
+"CONFIRM_DESC"                  = "هل أنت متأكد؟";
+"CONFIRM_YES"                   = "نعم";
+"CONFIRM_NO"                    = "لا";
+
 /* ── تذييل التوافق ──────────────────────────────────────────── */
 "compatible_ver"                  = "متوافق";
 "not_compatible_ver"              = "غير متوافق";
@@ -188,7 +218,7 @@
 "license_option_disc" = "اختر خيارًا:";
 "activate_new_license" = "تفعيل ترخيص جديد";
 "restore_license" = "استعادة الترخيص";
-"renew_license" = "تجديد الترخيص";
+"renew_license" = "شراء اشتراك";
 "buy_license" = "شراء ترخيص";
 "activate_new_license_disc" = "أدخل بريدك الإلكتروني ورمز الترخيص.";
 "email" = "البريد الإلكتروني";

@@ -34,6 +34,11 @@
 "PROFILE_NO_TRACK_VIEW"           = "Anonym ansehen";
 "PROFILE_NO_TRACK_VIEW_SUB"       = "Profile anonym ansehen, ohne Ansichtsverfolgung";
 
+"FOLLOW_STATUS_MUTUAL"          = "🤝 Du und %@ folgt euch gegenseitig";
+"FOLLOW_STATUS_THEY_FOLLOW"     = "👁 %@ folgt dir, aber du nicht zurück";
+"FOLLOW_STATUS_YOU_FOLLOW"      = "👻 Du folgst %@, aber er/sie dir nicht";
+"FOLLOW_STATUS_NONE"            = "👻 Du und %@ folgt euch nicht";
+
 /* —— Feed ————————————————————————————————————————— */
 "SECTION_FEED"                    = "FEED";
 "AD_BLOCKER"                      = "Werbeblocker";
@@ -44,6 +49,27 @@
 "GRID_POST_DATES_SUB"             = "Zeigt das relative Datum auf Profil-Raster-Miniaturen an";
 "CLEAR_DISPLAY"                   = "Anzeige bereinigen";
 "CLEAR_DISPLAY_SUB"               = "Versteckt alle UI-Overlays während der Videowiedergabe";
+
+"DISABLE_WARNINGS"              = "Warnungen deaktivieren";
+"DISABLE_WARNINGS_SUB"          = "Bestätigungsdialoge und Warnungen entfernen";
+
+"DISABLE_UNSENSITIVE"           = "Sensible Inhalte anzeigen";
+"DISABLE_UNSENSITIVE_SUB"       = "Gesperrte oder unscharfe Inhalte automatisch anzeigen";
+
+"SKIP_RECOMMENDATIONS"          = "Empfehlungen überspringen";
+"SKIP_RECOMMENDATIONS_SUB"     = "Vorschlagsseiten automatisch überspringen";
+
+"DISABLE_LIVE"                  = "LIVE deaktivieren";
+"DISABLE_LIVE_SUB"              = "LIVE-Inhalte im Feed ausblenden";
+
+"FOLLOW_CONFIRMATION"           = "Follow-Bestätigung";
+"FOLLOW_CONFIRMATION_SUB"       = "Bestätigung vor dem Folgen anzeigen";
+
+"LIKE_CONFIRMATION"             = "Like-Bestätigung";
+"LIKE_CONFIRMATION_SUB"         = "Bestätigung vor dem Liken eines Videos";
+
+"LIKE_COMMENT_CONFIRMATION"     = "Kommentar-Like Bestätigung";
+"LIKE_COMMENT_CONFIRMATION_SUB" = "Bestätigung vor dem Liken eines Kommentars";
 
 /* —— Download ——————————————————————————————————————— */
 "SECTION_DOWNLOAD"                = "DOWNLOAD";
@@ -152,6 +178,10 @@
 "PROFILE_ANONYMOUS_VIEWED"        = "👁️ Profil anonym angesehen — keine Verfolgung";
 "MARKED_AS_READ"                  = "👁 Als gelesen markiert";
 
+"CONFIRM_DESC"                  = "Bist du sicher?";
+"CONFIRM_YES"                   = "Ja";
+"CONFIRM_NO"                    = "Nein";
+
 /* —— Kompatibilitäts-Fußzeile ———————————————————————————— */
 "compatible_ver"                  = "Kompatibel";
 "not_compatible_ver"              = "Nicht kompatibel";
@@ -188,7 +218,7 @@
 "license_option_disc" = "Wähle eine Option:";
 "activate_new_license" = "Neue Lizenz aktivieren";
 "restore_license" = "Lizenz wiederherstellen";
-"renew_license" = "Lizenz verlängern";
+"renew_license" = "Abonnement kaufen";
 "buy_license" = "Lizenz kaufen";
 "activate_new_license_disc" = "Gib unten deine E-Mail und den Lizenzschlüssel ein.";
 "email" = "E-Mail";

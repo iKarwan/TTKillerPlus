@@ -34,6 +34,11 @@
 "PROFILE_NO_TRACK_VIEW"           = "匿名查看";
 "PROFILE_NO_TRACK_VIEW_SUB"       = "匿名查看个人资料，不追踪查看记录";
 
+"FOLLOW_STATUS_MUTUAL"          = "🤝 你和 %@ 互相关注";
+"FOLLOW_STATUS_THEY_FOLLOW"     = "👁 %@ 关注了你，但你没有回关";
+"FOLLOW_STATUS_YOU_FOLLOW"      = "👻 你关注了 %@，但对方没有回关";
+"FOLLOW_STATUS_NONE"            = "👻 你和 %@ 没有互相关注";
+
 /* —— 动态 ———————————————————————————————————————————————— */
 "SECTION_FEED"                    = "动态";
 "AD_BLOCKER"                      = "广告拦截器";
@@ -44,6 +49,27 @@
 "GRID_POST_DATES_SUB"             = "在个人资料网格缩略图上显示相对日期";
 "CLEAR_DISPLAY"                   = "清晰显示";
 "CLEAR_DISPLAY_SUB"               = "观看视频时隐藏所有 UI 覆盖层";
+
+"DISABLE_WARNINGS"              = "关闭警告";
+"DISABLE_WARNINGS_SUB"          = "移除确认弹窗和警告提示";
+
+"DISABLE_UNSENSITIVE"           = "显示敏感内容";
+"DISABLE_UNSENSITIVE_SUB"       = "自动显示被隐藏或模糊的内容";
+
+"SKIP_RECOMMENDATIONS"          = "跳过推荐";
+"SKIP_RECOMMENDATIONS_SUB"     = "自动跳过推荐页面";
+
+"DISABLE_LIVE"                  = "关闭直播";
+"DISABLE_LIVE_SUB"              = "隐藏直播内容";
+
+"FOLLOW_CONFIRMATION"           = "关注确认";
+"FOLLOW_CONFIRMATION_SUB"       = "关注前显示确认提示";
+
+"LIKE_CONFIRMATION"             = "点赞确认";
+"LIKE_CONFIRMATION_SUB"         = "点赞前显示确认提示";
+
+"LIKE_COMMENT_CONFIRMATION"     = "评论点赞确认";
+"LIKE_COMMENT_CONFIRMATION_SUB" = "点赞评论前确认";
 
 /* —— 下载 ———————————————————————————————————————————————— */
 "SECTION_DOWNLOAD"                = "下载";
@@ -152,6 +178,10 @@
 "PROFILE_ANONYMOUS_VIEWED"        = "👁️ 已匿名查看个人资料 — 不追踪";
 "MARKED_AS_READ"                  = "👁 已标记为已读";
 
+"CONFIRM_DESC"                  = "你确定吗？";
+"CONFIRM_YES"                   = "是";
+"CONFIRM_NO"                    = "否";
+
 /* —— 兼容性页脚 —————————————————————————————————————————— */
 "compatible_ver"                  = "兼容";
 "not_compatible_ver"              = "不兼容";
@@ -188,7 +218,7 @@
 "license_option_disc" = "请选择：";
 "activate_new_license" = "激活新许可证";
 "restore_license" = "恢复许可证";
-"renew_license" = "续订许可证";
+"renew_license" = "购买订阅";
 "buy_license" = "购买许可证";
 "activate_new_license_disc" = "请输入邮箱和许可证密钥。";
 "email" = "邮箱";

@@ -1,8 +1,10 @@
 /* ================================================================ */
 /* TTKillerPlus — Localizable.strings                               */
-/* Utworzono 14.05.2026                                             */
+/* Utworzono 20.05.2026                                             */
 /* przez marcinmajsc                                                */
 /* ================================================================ */
+
+/* NOTE !!! Po przetłumaczeniu dodan kod kraju: en - ar - zh etc. */
 
 /* ── General ──────────────────────────────────────────────────── */
 "GLOB_ENABLED"                    = "Globalnie włączone";
@@ -32,6 +34,11 @@
 "PROFILE_NO_TRACK_VIEW"           = "Podgląd anonimowy";
 "PROFILE_NO_TRACK_VIEW_SUB"       = "Przeglądaj profile anonimowo bez śladu wyświetlenia";
 
+"FOLLOW_STATUS_MUTUAL"          = "🤝 You and %@ follow each other";
+"FOLLOW_STATUS_THEY_FOLLOW"     = "👁 %@ follows you but you don't follow back";
+"FOLLOW_STATUS_YOU_FOLLOW"      = "👻 You follow %@ but they don't follow back";
+"FOLLOW_STATUS_NONE"            = "👻 You and %@ don't follow each other";
+
 /* ── Feed section ─────────────────────────────────────────────── */
 "SECTION_FEED"                    = "AKTUALNOŚCI";
 "AD_BLOCKER"                      = "Blokada reklam";
@@ -40,22 +47,26 @@
 "COUNTRY_FLAG_PILL_SUB"           = "Pokaż flagę kraju autora + wiek posta podczas oglądania";
 "GRID_POST_DATES"                 = "Daty postów w siatce";
 "GRID_POST_DATES_SUB"             = "Pokaż względną datę na miniaturach siatki profilu";
+"CLEAR_DISPLAY"                   = "Wyczyść ekran";
+"CLEAR_DISPLAY_SUB"               = "Ukryj wszystkie nakładki UI podczas oglądania filmu";
+
 "DISABLE_WARNINGS"                = "Wyłącz ostrzeżenia";
 "DISABLE_WARNINGS_SUB"            = "Ukryj wyskakujące ostrzeżenia podczas przeglądania";
 "DISABLE_UNSENSITIVE"             = "Wyłącz filtr treści wrażliwych";
 "DISABLE_UNSENSITIVE_SUB"         = "Pokazuj treści bez ograniczeń dla treści wrażliwych";
+
 "SKIP_RECOMMENDATIONS"            = "Pomiń rekomendacje";
 "SKIP_RECOMMENDATIONS_SUB"        = "Pomiń sugerowane filmy i przejdź do zwykłych treści feedu";
 "DISABLE_LIVE"                    = "Wyłącz treści LIVE";
 "DISABLE_LIVE_SUB"                = "Ukryj filmy LIVE w Twoim feedzie";
+
 "LIKE_CONFIRMATION"               = "Potwierdzenie polubienia";
 "LIKE_CONFIRMATION_SUB"           = "Pytaj przed polubieniem filmu";
 "FOLLOW_CONFIRMATION"             = "Potwierdzenie obserwowania";
 "FOLLOW_CONFIRMATION_SUB"         = "Pytaj przed obserwowaniem twórcy";
 "LIKE_COMMENT_CONFIRMATION"       = "Potwierdzenie polubienia komentarza";
 "LIKE_COMMENT_CONFIRMATION_SUB"   = "Pytaj przed polubieniem komentarza";
-"CLEAR_DISPLAY"                   = "Wyczyść ekran";
-"CLEAR_DISPLAY_SUB"               = "Ukryj wszystkie nakładki UI podczas oglądania filmu";
+
 
 /* ── Download section ─────────────────────────────────────────── */
 "SECTION_DOWNLOAD"                = "POBIERANIE";
@@ -164,6 +175,9 @@
 "PROFILE_ANONYMOUS_VIEWED"        = "👁️ Profil obejrzany anonimowo — bez śladu";
 "MARKED_AS_READ"                  = "👁 Oznaczono jako przeczytane";
 
+"CONFIRM_DESC"                    = "Czy na pewno?";
+"CONFIRM_YES"                     = "Tak";
+"CONFIRM_NO"                      = "Nie";
 
 /* ── Compatibility footer ─────────────────────────────────────── */
 "compatible_ver"                  = "Zgodne";
@@ -201,7 +215,7 @@
 "license_option_disc" = "Wybierz opcję:";
 "activate_new_license" = "Aktywuj nową licencję";
 "restore_license" = "Przywróć licencję";
-"renew_license" = "Odnów licencję";
+"renew_license" = "Lup subskrypcje";
 "buy_license" = "Kup licencję";
 "activate_new_license_disc" = "Wpisz poniżej swój e-mail i klucz licencyjny.";
 "email" = "E-mail";

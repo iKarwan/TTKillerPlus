@@ -4,7 +4,7 @@
 /* przez marcinmajsc                                                */
 /* ================================================================ */
 
-/* NOTE !!! Po przetłumaczeniu dodan kod kraju: en - ar - zh etc. */
+/* NOTE !!! Po przetłumaczeniu dodaj kod kraju: en - ar - zh etc. */
 
 /* ── General ──────────────────────────────────────────────────── */
 "GLOB_ENABLED"                    = "Globalnie włączone";
@@ -215,7 +215,7 @@
 "license_option_disc" = "Wybierz opcję:";
 "activate_new_license" = "Aktywuj nową licencję";
 "restore_license" = "Przywróć licencję";
-"renew_license" = "Lup subskrypcje";
+"renew_license" = "Kup subskrypcje";
 "buy_license" = "Kup licencję";
 "activate_new_license_disc" = "Wpisz poniżej swój e-mail i klucz licencyjny.";
 "email" = "E-mail";

@@ -30,7 +30,7 @@ Add `https://repo.ikghd.me` to your Cydia / Zebra / Sileo sources and download f
 |---|---|---|---|---|
 | [TikTok ↓](https://ikghd.site/ipa/TikTok_45.3_TTKillerPlus_1.5.ipa) | com.zhiliaoapp.musically | 45.3 | 1.5 | IPA |
 | [TrollStore ↓](https://ikghd.site/ipa/TikTok_45.3_TTKillerPlus_1.5_TrollStore.tipa) | com.zhiliaoapp.musically | 45.3 | 1.5 | tipa |
-| [Plugin ↓](https://ikghd.site/ipa/TikTok_45.3_TTKillerPlus_1.5_Pi.ipa) | com.zhiliaoapp.musically | 45.3 | 1.5 | IPA |
+| [No_Plugin ↓](https://ikghd.site/ipa/TikTok_45.3_TTKillerPlus_1.5_No_Plugin.ipa) | com.zhiliaoapp.musically | 45.3 | 1.5 | IPA |
 
 </details>
 

@@ -50,17 +50,15 @@
 "CLEAR_DISPLAY"                   = "Anzeige bereinigen";
 "CLEAR_DISPLAY_SUB"               = "Versteckt alle UI-Overlays während der Videowiedergabe";
 
-"DISABLE_WARNINGS"              = "Warnungen deaktivieren";
-"DISABLE_WARNINGS_SUB"          = "Bestätigungsdialoge und Warnungen entfernen";
+"LOOP_BEHAVIOR"                   = "Wiedergabeverhalten";
+"DEFAULT"                         = "Standard";
+"STOP_LOOP"                       = "Stopp";
 
-"DISABLE_UNSENSITIVE"           = "Sensible Inhalte anzeigen";
-"DISABLE_UNSENSITIVE_SUB"       = "Gesperrte oder unscharfe Inhalte automatisch anzeigen";
+"DISABLE_WARNINGS"                = "Warnungen deaktivieren";
+"DISABLE_WARNINGS_SUB"            = "Bestätigungswarnungen und Unschärfe für sensible Inhalte entfernen";
 
-"SKIP_RECOMMENDATIONS"          = "Empfehlungen überspringen";
-"SKIP_RECOMMENDATIONS_SUB"     = "Vorschlagsseiten automatisch überspringen";
-
-"DISABLE_LIVE"                  = "LIVE deaktivieren";
-"DISABLE_LIVE_SUB"              = "LIVE-Inhalte im Feed ausblenden";
+"SKIP_RECOMMENDATIONS"            = "Empfehlungen ausblenden";
+"SKIP_RECOMMENDATIONS_SUB"        = "Empfehlungsbildschirme LIVE und Bereiche mit vorgeschlagenen Inhalten ausblenden";
 
 "FOLLOW_CONFIRMATION"           = "Follow-Bestätigung";
 "FOLLOW_CONFIRMATION_SUB"       = "Bestätigung vor dem Folgen anzeigen";

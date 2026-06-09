@@ -7,7 +7,7 @@
 /* NOTE !!! After translation add your country code: en - ar - zh etc. */
 
 /* ── General ──────────────────────────────────────────────────── */
-"GLOB_ENABLED"                    = "Global Enabled";
+"GLOB_ENABLED"                    = "Global Enable";
 "GLOBAL_ENABLED_SWITCH"           = "Tap the top-right button to apply changes.";
 "ACTIVE_VERIFIED"                 = "Active (Verified)";
 "INACTIVE_VERIFY"                 = "Inactive (Verify License)";
@@ -50,15 +50,15 @@
 "CLEAR_DISPLAY"                   = "Clear Display";
 "CLEAR_DISPLAY_SUB"               = "Hide all UI overlays while watching a video";
 
-"DISABLE_WARNINGS"                = "Disable Warnings";
-"DISABLE_WARNINGS_SUB"            = "Remove confirmation dialogs and warning popups while using the app";
-"DISABLE_UNSENSITIVE"             = "Disable Sensitive Content Blur";
-"DISABLE_UNSENSITIVE_SUB"         = "Automatically reveal sensitive or blurred content without extra prompts";
+"LOOP_BEHAVIOR"                   = "Loop Behavior";
+"DEFAULT"                         = "Default";
+"STOP_LOOP"                       = "Stop";
 
-"SKIP_RECOMMENDATIONS"            = "Skip Recommendations";
-"SKIP_RECOMMENDATIONS_SUB"        = "Automatically skip recommendation screens and suggested content sections";
-"DISABLE_LIVE"                    = "Disable LIVE";
-"DISABLE_LIVE_SUB"                = "Hide LIVE streams and LIVE-related content throughout the Feed";
+"DISABLE_WARNINGS"                = "Disable Warnings";
+"DISABLE_WARNINGS_SUB"            = "Remove confirmation warning and Sensitive Content Blur";
+
+"SKIP_RECOMMENDATIONS"            = "Hide Recommendations";
+"SKIP_RECOMMENDATIONS_SUB"        = "Hide recommendation screens LIVE and suggested content sections";
 
 "FOLLOW_CONFIRMATION"             = "Follow Confirmation";
 "FOLLOW_CONFIRMATION_SUB"         = "Show a confirmation alert before following an account";

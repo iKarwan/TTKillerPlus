@@ -50,17 +50,15 @@
 "CLEAR_DISPLAY"                   = "Affichage clair";
 "CLEAR_DISPLAY_SUB"               = "Masque toutes les superpositions de l'interface utilisateur pendant la lecture d'une vidéo";
 
-"DISABLE_WARNINGS"              = "Désactiver les avertissements";
-"DISABLE_WARNINGS_SUB"          = "Supprimer les fenêtres de confirmation";
+"LOOP_BEHAVIOR"                   = "Comportement de la boucle";
+"DEFAULT"                         = "Par défaut";
+"STOP_LOOP"                       = "Arrêter";
 
-"DISABLE_UNSENSITIVE"           = "Afficher contenu sensible";
-"DISABLE_UNSENSITIVE_SUB"       = "Afficher automatiquement le contenu masqué";
+"DISABLE_WARNINGS"                = "Désactiver les avertissements";
+"DISABLE_WARNINGS_SUB"            = "Supprimer l’avertissement de confirmation et le flou du contenu sensible";
 
-"SKIP_RECOMMENDATIONS"          = "Passer les recommandations";
-"SKIP_RECOMMENDATIONS_SUB"     = "Passer les suggestions automatiquement";
-
-"DISABLE_LIVE"                  = "Désactiver LIVE";
-"DISABLE_LIVE_SUB"              = "Masquer les vidéos LIVE";
+"SKIP_RECOMMENDATIONS"            = "Masquer les recommandations";
+"SKIP_RECOMMENDATIONS_SUB"        = "Masquer les écrans de recommandations EN DIRECT et les sections de contenu suggéré";
 
 "FOLLOW_CONFIRMATION"           = "Confirmation de suivi";
 "FOLLOW_CONFIRMATION_SUB"       = "Afficher une confirmation avant de suivre";

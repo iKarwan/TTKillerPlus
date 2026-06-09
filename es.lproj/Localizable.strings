@@ -50,17 +50,15 @@
 "CLEAR_DISPLAY"                   = "Pantalla Clara";
 "CLEAR_DISPLAY_SUB"               = "Oculta todas las superposiciones de la interfaz de usuario mientras ves un video";
 
-"DISABLE_WARNINGS"              = "Desactivar advertencias";
-"DISABLE_WARNINGS_SUB"          = "Eliminar ventanas de confirmación y advertencias";
+"LOOP_BEHAVIOR"                   = "Comportamiento del bucle";
+"DEFAULT"                         = "Predeterminado";
+"STOP_LOOP"                       = "Detener";
 
-"DISABLE_UNSENSITIVE"           = "Mostrar contenido sensible";
-"DISABLE_UNSENSITIVE_SUB"       = "Mostrar contenido oculto automáticamente";
+"DISABLE_WARNINGS"                = "Desactivar advertencias";
+"DISABLE_WARNINGS_SUB"            = "Eliminar la advertencia de confirmación y el desenfoque de contenido sensible";
 
-"SKIP_RECOMMENDATIONS"          = "Saltar recomendaciones";
-"SKIP_RECOMMENDATIONS_SUB"     = "Saltar pantallas de sugerencias automáticamente";
-
-"DISABLE_LIVE"                  = "Desactivar LIVE";
-"DISABLE_LIVE_SUB"              = "Ocultar transmisiones en vivo";
+"SKIP_RECOMMENDATIONS"            = "Ocultar recomendaciones";
+"SKIP_RECOMMENDATIONS_SUB"        = "Ocultar pantallas de recomendaciones EN VIVO y secciones de contenido sugerido";
 
 "FOLLOW_CONFIRMATION"           = "Confirmación de seguimiento";
 "FOLLOW_CONFIRMATION_SUB"       = "Mostrar confirmación antes de seguir";

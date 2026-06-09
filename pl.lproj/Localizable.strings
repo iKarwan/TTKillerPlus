@@ -50,15 +50,15 @@
 "CLEAR_DISPLAY"                   = "Wyczyść ekran";
 "CLEAR_DISPLAY_SUB"               = "Ukryj wszystkie nakładki UI podczas oglądania filmu";
 
-"DISABLE_WARNINGS"                = "Wyłącz ostrzeżenia";
-"DISABLE_WARNINGS_SUB"            = "Ukryj wyskakujące ostrzeżenia podczas przeglądania";
-"DISABLE_UNSENSITIVE"             = "Wyłącz filtr treści wrażliwych";
-"DISABLE_UNSENSITIVE_SUB"         = "Pokazuj treści bez ograniczeń dla treści wrażliwych";
+"LOOP_BEHAVIOR"                   = "Zachowanie pętli";
+"DEFAULT"                         = "Domyślne";
+"STOP_LOOP"                       = "Zatrzymaj";
 
-"SKIP_RECOMMENDATIONS"            = "Pomiń rekomendacje";
-"SKIP_RECOMMENDATIONS_SUB"        = "Pomiń sugerowane filmy i przejdź do zwykłych treści feedu";
-"DISABLE_LIVE"                    = "Wyłącz treści LIVE";
-"DISABLE_LIVE_SUB"                = "Ukryj filmy LIVE w Twoim feedzie";
+"DISABLE_WARNINGS"                = "Wyłącz ostrzeżenia";
+"DISABLE_WARNINGS_SUB"            = "Usuń ostrzeżenie potwierdzające i rozmycie wrażliwych treści";
+
+"SKIP_RECOMMENDATIONS"            = "Ukryj rekomendacje";
+"SKIP_RECOMMENDATIONS_SUB"        = "Ukryj ekrany rekomendacji LIVE i sekcje sugerowanych treści";
 
 "LIKE_CONFIRMATION"               = "Potwierdzenie polubienia";
 "LIKE_CONFIRMATION_SUB"           = "Pytaj przed polubieniem filmu";

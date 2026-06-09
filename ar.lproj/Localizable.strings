@@ -50,17 +50,15 @@
 "CLEAR_DISPLAY"                   = "شاشة واضحة";
 "CLEAR_DISPLAY_SUB"               = "إخفاء جميع التراكبات في واجهة المستخدم أثناء مشاهدة الفيديو";
 
-"DISABLE_WARNINGS"              = "تعطيل التحذيرات";
-"DISABLE_WARNINGS_SUB"          = "إزالة نوافذ التأكيد والتنبيهات أثناء استخدام التطبيق";
+"LOOP_BEHAVIOR"                   = "سلوك التكرار";
+"DEFAULT"                         = "افتراضي";
+"STOP_LOOP"                       = "إيقاف";
 
-"DISABLE_UNSENSITIVE"           = "إظهار المحتوى الحساس";
-"DISABLE_UNSENSITIVE_SUB"       = "إظهار المحتوى المخفي أو الحساس تلقائياً بدون تنبيهات";
+"DISABLE_WARNINGS"                = "تعطيل التحذيرات";
+"DISABLE_WARNINGS_SUB"            = "إزالة تحذير التأكيد وتمويه المحتوى الحساس";
 
-"SKIP_RECOMMENDATIONS"          = "تخطي التوصيات";
-"SKIP_RECOMMENDATIONS_SUB"     = "تخطي صفحات الاقتراحات والمحتوى الموصى به تلقائياً";
-
-"DISABLE_LIVE"                  = "تعطيل البث المباشر";
-"DISABLE_LIVE_SUB"              = "إخفاء البث المباشر والمحتوى المرتبط به في الخلاصة";
+"SKIP_RECOMMENDATIONS"            = "إخفاء التوصيات";
+"SKIP_RECOMMENDATIONS_SUB"        = "إخفاء شاشات التوصيات المباشرة وأقسام المحتوى المقترح";
 
 "FOLLOW_CONFIRMATION"           = "تأكيد المتابعة";
 "FOLLOW_CONFIRMATION_SUB"       = "عرض رسالة تأكيد قبل متابعة حساب";

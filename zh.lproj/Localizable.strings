@@ -50,17 +50,15 @@
 "CLEAR_DISPLAY"                   = "清晰显示";
 "CLEAR_DISPLAY_SUB"               = "观看视频时隐藏所有 UI 覆盖层";
 
-"DISABLE_WARNINGS"              = "关闭警告";
-"DISABLE_WARNINGS_SUB"          = "移除确认弹窗和警告提示";
+"LOOP_BEHAVIOR"                   = "循环行为";
+"DEFAULT"                         = "默认";
+"STOP_LOOP"                       = "停止";
 
-"DISABLE_UNSENSITIVE"           = "显示敏感内容";
-"DISABLE_UNSENSITIVE_SUB"       = "自动显示被隐藏或模糊的内容";
+"DISABLE_WARNINGS"                = "禁用警告";
+"DISABLE_WARNINGS_SUB"            = "移除确认警告和敏感内容模糊";
 
-"SKIP_RECOMMENDATIONS"          = "跳过推荐";
-"SKIP_RECOMMENDATIONS_SUB"     = "自动跳过推荐页面";
-
-"DISABLE_LIVE"                  = "关闭直播";
-"DISABLE_LIVE_SUB"              = "隐藏直播内容";
+"SKIP_RECOMMENDATIONS"            = "隐藏推荐";
+"SKIP_RECOMMENDATIONS_SUB"        = "隐藏直播推荐界面和推荐内容区域";
 
 "FOLLOW_CONFIRMATION"           = "关注确认";
 "FOLLOW_CONFIRMATION_SUB"       = "关注前显示确认提示";

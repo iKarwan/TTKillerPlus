@@ -7,7 +7,7 @@
 |  ![4](https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/4.PNG) | ![5](https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/5.PNG) | ![6](https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/6.PNG) |
 
 ## Recommended iOS Firmware & TikTok App Versions?
-* iOS iPadOS 15.1 / iOS iPadOS 26.x ...
+* iOS iPadOS 15.1 / iOS iPadOS 27.x
 * TikTok v44.4.0 and newer ...
 
 

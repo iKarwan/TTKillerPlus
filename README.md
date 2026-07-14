@@ -28,8 +28,8 @@ Add `https://repo.ikghd.me` to your Cydia / Zebra / Sileo sources and download f
 
 | Application | Bundle | Version | TTKillerPlus | File Type |
 |---|---|---|---|---|
-| [TikTok ↓](https://ikghd.site/ipa/TikTok_45.6_TTKillerPlus_1.6.ipa) | com.zhiliaoapp.musically | 45.6 | 1.6 | IPA |
-| [TrollStore ↓](https://ikghd.site/ipa/TikTok_45.6_TTKillerPlus_1.6_TrollStore.tipa) | com.zhiliaoapp.musically | 45.6 | 1.6 | tipa |
+| [TikTok ↓](https://ikghd.site/ipa/TikTok_46.0_TTKillerPlus_1.7.ipa) | com.zhiliaoapp.musically | 46.0 | 1.7 | IPA |
+| [TrollStore ↓](https://ikghd.site/ipa/TikTok_46.0_TTKillerPlus_1.7_TrollStore.tipa) | com.zhiliaoapp.musically | 46.0 | 1.7 | tipa |
 
 </details>
 
@@ -63,7 +63,7 @@ Add `https://repo.ikghd.me` to your Cydia / Zebra / Sileo sources and download f
 
 ### TrollStore TIPA
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* Copy this link [here](https://ikghd.site/ipa/TikTok_45.6_TTKillerPlus_1.6_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
+* Copy this link [here](https://ikghd.site/ipa/TikTok_46.0_TTKillerPlus_1.7_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
 
 
 ### Telegram Channel

@@ -29,7 +29,7 @@ Add `https://repo.ikghd.me` to your Cydia / Zebra / Sileo sources and download f
 | Application | Bundle | Version | TTKillerPlus | File Type |
 |---|---|---|---|---|
 | [TikTok ↓](https://ikghd.site/ipa/TikTok_46.5_TTKillerPlus_2.0.ipa) | com.zhiliaoapp.musically | 46.5 | 2.0 | IPA |
-| [TrollStore ↓](https://ikghd.site/ipa/TikTok_46.5_TTKillerPlus_2.0_TrollStore.tipa) | com.zhiliaoapp.musically | 46.5 | 2.0 | tipa |
+| [TrollStore & Plugin ↓](https://repo.ikghd.me/TTKPlus) | com.zhiliaoapp.musically | 46.5 | 2.0 | tipa |
 
 </details>
 
